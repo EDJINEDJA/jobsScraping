@@ -74,13 +74,14 @@ class Jobs():
                 try: 
                     Compétences = jobs[idx]['competences']
                     QualificationsPro = jobs[idx]["qualitesProfessionnelles"]
+                    Qualifications = jobs[idx]['qualificationLibelle']
                 except KeyError:
                     Compétences = " "
                     QualificationsPro = " "
+                    Qualifications = " "
                 Lieu = jobs[idx]['lieuTravail']
                 Contrat = jobs[idx]['typeContrat']
                 Entreprise = jobs[idx]['entreprise']
-                Qualifications = jobs[idx]['qualificationLibelle']
 
                 row = [Index , dateCR, dateAct , Offre , Missions , Compétences, QualificationsPro , Contrat , Lieu , Entreprise , Qualifications]
                 
