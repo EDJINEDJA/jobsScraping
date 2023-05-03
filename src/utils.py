@@ -49,22 +49,31 @@ class Jobs():
                 writer.writeheader()
 
         for idx in range(self.__len__(jobs)):
-            Index = idx
-            dateCR=jobs[idx]['dateCreation']
-            dateAct=jobs[idx]['dateActualisation']
-            Offre = jobs[idx]['intitule']
-            Missions = jobs[idx]['description']
             try: 
+                Index = idx
+                dateCR=jobs[idx]['dateCreation']
+                dateAct=jobs[idx]['dateActualisation']
+                Offre = jobs[idx]['intitule']
+                Missions = jobs[idx]['description']
                 Compétences = jobs[idx]['competences']
                 QualificationsPro = jobs[idx]["qualitesProfessionnelles"]
+                Lieu = jobs[idx]['lieuTravail']
+                Contrat = jobs[idx]['typeContrat']
+                Entreprise = jobs[idx]['entreprise']
+                Qualifications = jobs[idx]['qualificationLibelle']
             except KeyError:
+                Index = idx
+                dateCR= " "
+                dateAct= " "
+                Offre = " "
+                Missions = " "
                 Compétences = " "
                 QualificationsPro = " "
-
-            Lieu = jobs[idx]['lieuTravail']
-            Contrat = jobs[idx]['typeContrat']
-            Entreprise = jobs[idx]['entreprise']
-            Qualifications = jobs[idx]['qualificationLibelle']
+                Lieu = " "
+                Contrat = " "
+                Entreprise = " "
+                Qualifications = " "
+            
 
             row = [Index,dateCR,dateAct, Offre , Missions , Compétences, QualificationsPro ,Contrat , Lieu , Entreprise , Qualifications]
             
