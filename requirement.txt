@@ -1,0 +1,5 @@
+python-dotenv 
+api-offres-emploi
+requests
+pandas
+pyyaml
