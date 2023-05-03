@@ -1,0 +1,8 @@
+START_YEAR: 2023
+START_DAY: 1
+START_MONTH: 1
+START_HOURS: 12
+START_MIN: 30
+
+KEYWORDS: "automatique robotique"
+OUTPUTPATH: "./data/raw/"
