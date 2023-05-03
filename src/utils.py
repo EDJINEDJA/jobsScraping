@@ -49,39 +49,31 @@ class Jobs():
                 writer.writeheader()
 
         for idx in range(self.__len__(jobs)):
+            
+            Index = idx
+            dateCR=jobs[idx]['dateCreation']
+            dateAct=jobs[idx]['dateActualisation']
+            Offre = jobs[idx]['intitule']
+            Missions = jobs[idx]['description']
             try: 
-                Index = idx
-                dateCR=jobs[idx]['dateCreation']
-                dateAct=jobs[idx]['dateActualisation']
-                Offre = jobs[idx]['intitule']
-                Missions = jobs[idx]['description']
                 Compétences = jobs[idx]['competences']
                 QualificationsPro = jobs[idx]["qualitesProfessionnelles"]
-                Lieu = jobs[idx]['lieuTravail']
-                Contrat = jobs[idx]['typeContrat']
-                Entreprise = jobs[idx]['entreprise']
-                Qualifications = jobs[idx]['qualificationLibelle']
             except KeyError:
-                Index = idx
-                dateCR= " "
-                dateAct= " "
-                Offre = " "
-                Missions = " "
                 Compétences = " "
                 QualificationsPro = " "
-                Lieu = " "
-                Contrat = " "
-                Entreprise = " "
-                Qualifications = " "
-            
+            Lieu = jobs[idx]['lieuTravail']
+            Contrat = jobs[idx]['typeContrat']
+            Entreprise = jobs[idx]['entreprise']
+            Qualifications = jobs[idx]['qualificationLibelle']
 
-            row = [Index,dateCR,dateAct, Offre , Missions , Compétences, QualificationsPro ,Contrat , Lieu , Entreprise , Qualifications]
+            row = [Index , dateCR, dateAct , Offre , Missions , Compétences, QualificationsPro , Contrat , Lieu , Entreprise , Qualifications]
             
             # Ouverture du fichier en mode 'append' pour ajouter de nouvelles lignes
             with open(self.config["OUTPUTPATH"]+ "jobs.csv", mode='a', newline='', encoding="utf-8") as file1:
                 writer1 = csv.writer(file1)
                 # Écriture d'une nouvelle ligne dans le fichier CSV
                 writer1.writerow(row)
+
             time.sleep(1)
 
         print("done °°°°°")
