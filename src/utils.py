@@ -1,4 +1,3 @@
-from this import d
 from offres_emploi import Api
 from dotenv import load_dotenv
 
@@ -39,11 +38,12 @@ class Jobs():
 
     def make_csv(self):
         jobs = self.scraping()
+        
         if not os.path.exists(self.config["OUTPUTPATH"]+ "jobs.csv"):
             # Ouverture du fichier en mode 'append' pour ajouter de nouvelles lignes
             with open(self.config["OUTPUTPATH"]+ "jobs.csv", mode='a', newline='', encoding="utf-8") as file:
                 # Définition des colonnes dans un objet DictWriter
-                writer = csv.DictWriter(file, fieldnames=["Index","date Creation","date Actualisation","Offres d'emploi","Missions","Compétences","Types de contrat","Lieu de travail","Entreprise","Qualifications"])
+                writer = csv.DictWriter(file, fieldnames=["Index","date Creation","date Actualisation","Offres d'emploi","Missions","Compétences","Qualifications Pro","Types de contrat","Lieu de travail","Entreprise","Qualifications"])
 
                 # Écriture de l'en-tête
                 writer.writeheader()
@@ -54,14 +54,19 @@ class Jobs():
             dateAct=jobs[idx]['dateActualisation']
             Offre = jobs[idx]['intitule']
             Missions = jobs[idx]['description']
-            Compétences = jobs[idx]['competences']
-            #QualificationsPro = jobs[idx]["qualitesProfessionnelles"]
+            try: 
+                Compétences = jobs[idx]['competences']
+                QualificationsPro = jobs[idx]["qualitesProfessionnelles"]
+            except KeyError:
+                Compétences = " "
+                QualificationsPro = " "
+
             Lieu = jobs[idx]['lieuTravail']
             Contrat = jobs[idx]['typeContrat']
             Entreprise = jobs[idx]['entreprise']
             Qualifications = jobs[idx]['qualificationLibelle']
 
-            row = [Index,dateCR,dateAct, Offre , Missions , Compétences , Contrat , Lieu , Entreprise , Qualifications]
+            row = [Index,dateCR,dateAct, Offre , Missions , Compétences, QualificationsPro ,Contrat , Lieu , Entreprise , Qualifications]
             
             # Ouverture du fichier en mode 'append' pour ajouter de nouvelles lignes
             with open(self.config["OUTPUTPATH"]+ "jobs.csv", mode='a', newline='', encoding="utf-8") as file1:
