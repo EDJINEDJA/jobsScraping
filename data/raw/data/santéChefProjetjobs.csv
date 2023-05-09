@@ -1,0 +1,835 @@
+Index,date Creation,date Actualisation,Offres d'emploi,Missions,Compétences,Qualifications Pro,Types de contrat,Lieu de travail,Entreprise,Qualifications
+0,2023-04-28T14:18:22.000Z,2023-04-30T08:40:35.000Z,Chef de projet SI - santé (H/F),"Description du contexte :
+
+
+Le service de santé des armées (SSA), centré sur l'opérationnel, est un partenaire privilégié des composantes métiers (Médecine des Forces, Hôpital, Ravitaillement Sanitaire, Formation, Recherche).
+
+En tant que chef de projet, vous êtes intégré au bureau Médecine des Forces, rattaché à la division SI Opérations de la DSIN-S et évolue sous la responsabilité du chef de bureau et intégrez une équipe de 8 personnes.
+
+
+Vous intervenez dans toutes les étapes de la réalisation des projets informatique du périmètre qui vous est assigné. Vous êtes en relations avec tous les prestataires extérieurs et les responsables fonctionnels de votre périmètre métier.
+
+
+Missions principales :
+
+    Intervenir sur toutes les étapes de la réalisation d'un projet informatique : depuis le recensement et l'analyse des besoins, jusqu'à la mise en exploitation
+    Etre force de proposition apporter son expertise aux membres de l'équipe sur la partie technique (analyse des besoins, procédures techniques)
+    Organiser et animer les réunions projets
+    Prendre en charge la mise en œuvre technique, calendaire et financière d'un projet
+    Veiller à l'alignement des éléments techniques (applicatifs, infrastructure) avec les objectifs en matière de maîtrise des engagements de service (coûts, délais, qualité) et de satisfaction des utilisateurs
+    Contribuer, en lien avec les équipes techniques, au maintien en condition opérationnelle (MCO) et au maintien en condition de sécurité (MCS)
+    Assurer une veille sur les technologies relatives à son périmètre projet
+
+
+Les missions se déclinent sur un périmètre large constitué de différents SI dédiés au suivi de la santé du personnel du Ministère.
+
+
+Activités attachées au poste :
+
+    Assurer le suivi du support technique des SI
+    Participer à la création/évolution d'interfaces (interconnexion et interopérabilité)
+    Participer aux différents comités de suivi et de pilotage
+    Rédiger/valider les spécifications techniques des projets
+    Analyser techniquement les offres des prestataires
+    Mettre en place et faire remonter les indicateurs de suivi
+
+Compétences attendues :
+
+    Maitrise des méthodes de conduite de projet (cycle en V/ Agile)
+    Maitrise des concepts généraux IT (Windows server, Linux, Réseaux TCP/IP, VLAN, SQL)
+    Connaissances en API
+    Connaissances en SSI/RGPD
+
+Aptitudes :
+
+    Rigueur, excellente gestion des priorités
+    Être à l'écoute et capacité à communiquer
+    Autonomie et polyvalence
+    Aptitude et goût pour le travail en équipe
+
+Autres informations :
+
+Junior accepté", , ,CDD,"{'libelle': '94 - ST MANDE', 'latitude': 48.841526, 'longitude': 2.419441, 'codePostal': '94160', 'commune': '94067'}","{'nom': 'MINISTERE DES ARMEES', 'entrepriseAdaptee': False}", 
+1,2023-04-08T01:35:34.000Z,2023-04-19T15:32:55.000Z,Chef de projet Santé EAI Interopérabilité (H/F),"Vous interviendrez en tant que Chef de projet interopérabilité et vous assurerez la gestion du volet interopérabilité dans le cadre du déploiement des nouvelles interfaces avec les éditeurs.
+
+Piloter les différentes phases d'installation interopérabilité.
+Piloter et réaliser des phases de tests avec les éditeurs
+Participer à la rédaction des éléments documentaires liés au livrable interopérabilité
+Etre responsable du livrable interopérabilité
+Profil du candidat
+De formation informatique, vous avez de l'expérience (minimum 5 ans) sur des projets interopérabilités.
+
+- Connaissance des normes d'échanges utilisées pour la santé : HL7, IHE, Hprim Santé, Hprim XML
+- Connaissance technique : SQL, réseau
+- Technique de gestion de projet
+- Autonomie, leadership, esprit collaboratif, écoute active
+- Bonne communication, capacité à challenger les contributeurs aux projets","[{'code': '300688', 'libelle': 'Application web', 'exigence': 'E'}, {'code': '109846', 'libelle': 'Concevoir une application web', 'exigence': 'E'}, {'code': '109979', 'libelle': ""Surveiller le fonctionnement d'applicatifs et logiciels"", 'exigence': 'E'}, {'code': '300188', 'libelle': 'Rédiger un cahier des charges, des spécifications techniques', 'exigence': 'E'}, {'code': '300366', 'libelle': 'Recueillir et analyser les besoins client', 'exigence': 'E'}]","[{'libelle': 'Travailler en équipe', 'description': ""Capacité à travailler et à se coordonner avec les autres au sein de l'entreprise pour réaliser les objectifs fixés.""}, {'libelle': ""Faire preuve d'autonomie"", 'description': ""Capacité à prendre en charge son activité sans devoir être encadré de façon continue (le cas échéant, à solliciter les autres acteurs de l'entreprise).""}, {'libelle': 'Faire preuve de rigueur et de précision', 'description': ""Capacité à réaliser des tâches en suivant avec exactitude les règles, les procédures, les instructions qui ont été fournies, sans réaliser d'erreur et à transmettre clairement des informations. Se montrer ponctuel et respectueux des règles de savoir-vivre usuelles.""}]",CDD,"{'libelle': '92 - ISSY LES MOULINEAUX', 'latitude': 48.823903, 'longitude': 2.262888, 'codePostal': '92130', 'commune': '92040'}",{'entrepriseAdaptee': False},Employé qualifié
+2,2023-04-25T14:03:37.000Z,2023-05-02T19:14:22.000Z,Chef de projet Education Thérapeutique du Patient (H/F),"Poste en CDI, à temps partiel 0,80 ETP 
+Dans le cadre du déploiement du dispositif d'appui à la coordination porté par l'association, le chef de projet a en charge le pilotage et l'animation de la plateforme territoriale d'éducation thérapeutique du patient (ETP). Pour la réalisation de ses missions, il bénéficie du soutien d'un coordinateur de parcours référent ETP qu'il encadre sur cette fonction, ainsi que de l'appui du médecin coordinateur du dispositif.
+En tant que tel, la fonction de chef de projet vise à favoriser la pratique de l'ETP sur le territoire d'exercice du dispositif d'appui à la coordination. Il contribue, à l'information des patients et des professionnels sur l'offre existante. Il appuie et accompagne les acteurs de l'ETP dans la mise en œuvre de leurs projets.
+Pour ce faire, il est en lien et s'appuie sur les compétences des professionnels de santé, patients experts, patients et autres acteurs du territoire impliqués ou désirant s'impliquer dans des activités en lien avec l'éducation thérapeutique du patient. 
+Il articule son action avec les dispositifs et priorités de santé publique, ainsi qu'avec les autres dispositifs d'appui à l'ETP.
+
+Principales activités :
+Proposer un appui et un accompagnement aux acteurs de l'ETP :
+-	Assurer un soutien méthodologique pédagogique administratif et logistique aux structures effectrices sur : Le contexte et cadre législatif de l'ETP ; L'analyse et/ou à la construction d'un programme ; L'élaboration du contenu d'un programme l'évaluation du programme.
+-	Concevoir, animer et administrer des ateliers méthodologiques collectifs dans les domaines de la mise en œuvre et de la coordination de l'ETP. 
+Animer la coordination territoriale en ETP sur le territoire :
+-	Repérer et analyser les besoins des acteurs de l'ETP ;
+-	Animer le réseau des acteurs en lien ;
+-	Faciliter la collaboration des acteurs autour de l'ETP.
+Promouvoir l'ETP et l'activité de la plateforme sur le territoire :
+Coordination de parcours :
+-	En lien avec le coordinateur de parcours référent ETP, le responsable de l'équipe parcours, le chef de projet coordination territoriale et le médecin coordinateur diffuser une culture de l'ETP comme élément du parcours de santé au sein du service.
+Développer des partenariats :
+-	En lien avec l'équipe de cadres, contribuer au développement et à l'entretien des relations partenariales.
+Autres activités :
+-	En lien avec l'équipe de cadres : Prendre part à la mise en œuvre de la politique de l'association ; Prendre part à des groupes de travail territoriaux, départementaux ; régionaux ou nationaux contribuant au déploiement de la plateforme ETP ou du DAC ;
+-	Prendre part à la stratégie de communication du service ;
+-	Prendre part à la démarche qualité ;
+-	Prendre part à l'élaboration du rapport d'activité, à l'élaboration de la feuille de route, au dialogue de gestion et à la revue annuelle de contrat.
+
+Qualités / compétences attendues :
+-	Connaissance du cadre règlementaire et des principales formations en ETP ;
+-	Maîtrise des principes de la méthodologie et de la conduite de projet en ETP ; 
+-	Connaissance du tissu sanitaire, social et médico-social ; 
+-	Connaissances en littératie en santé ;
+
+Profil : 
+-	De niveau master 2 en lien avec l'éducation thérapeutique du patient ; 
+-	Expérience en ingénierie/animation de projet en ETP appréciée.
+
+Conditions d'exercice :
+-	Poste basé au siège de l'association, télétravail possible ;
+-	Convention collective de la branche de l'aide à domicile ; 
+-	Statut cadre ; 
+-	Déplacements à l'échelle du territoire d'intervention principalement, mais aussi de la région.
+
+Modalités de candidature :
+Envoyer CV et lettre de motivation pour le 19 mai 2023 au plus tard à Madame Cécile ROULLAND- Directrice de l'Espace Autonomie Santé Centre Bretagne - c.roulland@eascb.fr - 02.97.25.35.37
+Entretien de recrutement : le lundi 12 juin 2023 après-midi","[{'code': '100541', 'libelle': 'Techniques de communication orales, écrites et numériques', 'exigence': 'E'}, {'code': '122255', 'libelle': ""Coordonner des actions de santé au sein d'un réseau de partenaires"", 'exigence': 'E'}, {'code': '122257', 'libelle': ""Coordonner des actions d'éducation au sein d'un réseau de partenaires"", 'exigence': 'E'}]","[{'libelle': 'Faire preuve de curiosité', 'description': ""Capacité à aller chercher au-delà de ce qui est donné à voir, à s'ouvrir sur la nouveauté et à investiguer pour comprendre et agir de façon appropriée.""}, {'libelle': ""Faire preuve d'autonomie"", 'description': ""Capacité à prendre en charge son activité sans devoir être encadré de façon continue (le cas échéant, à solliciter les autres acteurs de l'entreprise).""}, {'libelle': 'Organiser son travail selon les priorités et les objectifs', 'description': 'Capacité à planifier, prioriser, anticiper des actions, en tenant compte des moyens, des ressources, des objectifs et du calendrier pour les réaliser.'}]",CDI,"{'libelle': '56 - PONTIVY', 'latitude': 48.064656, 'longitude': -2.969934, 'codePostal': '56300', 'commune': '56178'}","{'nom': 'Espace Autonomie Santé Centre Bretagne', 'logo': 'https://entreprise.pole-emploi.fr/static/img/logos/X8ywNuo7S83V0FroEg2dDw27tnPAzwRo.png', 'entrepriseAdaptee': False}",Cadre
+3,2023-04-20T13:50:02.000Z,2023-04-26T09:19:21.000Z,Chef de service - IME Trampoline (H/F),"Deltha Savoie recherche pour le secteur d'Albertville (73), un chef de service H/F pour un remplacement de 6 mois à pourvoir dés que possible.
+
+Vos missions :
+En cohérence avec le Projet Associatif Global, vous serez placé/e sous l'autorité du directeur. Le chef de service est membre de l'équipe de direction qui a pour missions de :
+- garantir la construction, la mise en oeuvre et l'évaluation du projet personnalisé de l'enfant ;
+- planifier et coordonner les actions des membres de l'équipe pluridisciplinaire ;
+- accompagner les familles dans toutes les étapes du parcours de leur enfant ;
+- participer à toutes les démarches institutionnelles et partenariales inhérentes à la mission de l'établissement.
+
+Poste soumis à l'obligation vaccinale COVID 19","[{'code': '100541', 'libelle': 'Techniques de communication orales, écrites et numériques', 'exigence': 'S'}, {'code': '107969', 'libelle': 'Organisation du système sanitaire et social', 'exigence': 'S'}, {'code': '122255', 'libelle': ""Coordonner des actions de santé au sein d'un réseau de partenaires"", 'exigence': 'S'}, {'code': '122257', 'libelle': ""Coordonner des actions d'éducation au sein d'un réseau de partenaires"", 'exigence': 'S'}, {'code': '300408', 'libelle': ""Rédiger un rapport, un compte rendu d'activité"", 'exigence': 'S'}]","[{'libelle': 'Travailler en équipe', 'description': ""Capacité à travailler et à se coordonner avec les autres au sein de l'entreprise pour réaliser les objectifs fixés.""}, {'libelle': ""Être à l'écoute"", 'description': ""Capacité à écouter activement, réceptionner des informations et messages, faire preuve d'ouverture d'esprit et de diplomatie.""}, {'libelle': ""Faire preuve d'autonomie"", 'description': ""Capacité à prendre en charge son activité sans devoir être encadré de façon continue (le cas échéant, à solliciter les autres acteurs de l'entreprise).""}]",CDD,"{'libelle': '73 - ALBERTVILLE', 'latitude': 45.669904, 'longitude': 6.393809, 'codePostal': '73200', 'commune': '73011'}","{'nom': 'DELTHA SAVOIE', 'entrepriseAdaptee': False}",Employé qualifié
+4,2023-04-28T16:32:18.000Z,2023-05-03T10:03:04.000Z,CHEF DE PROJET EDUCATIF ET SOCIAL (H/F),"LE CHEF DE PROJET SERA RESPONSABLE DE LA MISE EN ŒUVRE DE L'ACCOMPAGNEMENT A LA SCOLARITE ET DES ANIMATIONS SOCIO-EDUCATIVES POUR LES 6-15 ANS, DU CHANTIER VERS L'INSERTION ET DU DEVELOPPEMENT DE PROJETS INNOVANTS A DESTINATION DES ENFANTS ET DES JEUNES. Le service Projets Innovants : Prévention Générale - Accompagnement à la scolarité et animations socio-éducatives des 6 / 15 ans ; Chantier éducatif vers l'insertion - 16 / 25 - Accompagnement à l'insertion professionnelle ; Développement et mise en œuvre de projets éducatifs innovants et à impact.
+En tant que Chef de service vous aurez la charge du développement et du pilotage, de la programmation, de l'animation et du suivi des activités afin de garantir l'atteinte des objectifs des projets dont vous êtes le référent.
+Vous serez le garant de la mise en œuvre des activités du service et des procédures internes 
+Vous assurez le recrutement et le management d'une équipe de salariés, volontaires, stagiaires et bénévoles 
+Vous assurez la coordination du réseau partenarial
+Vous assurez le suivi administratif et budgétaire, le monitoring, l'évaluation et le reporting internes et externes des projets du service 
+Vous êtes force de proposition pour développer de nouveaux projets innovants et à impact
+Vous assurez la recherche de financements pour les projets dont vous avez la charge avec le soutien de l'équipe siège
+
+Niveau Master ou équivalent en gestion de projet social 
+Expérience et forte motivation pour les enjeux du travail social et de l'éducation populaire  
+Expérience professionnelle réussie de 3 ans en développement et mise en œuvre de projets sociaux
+Expérience réussie en recherche de financements
+Expérience réussie d'encadrement d'équipe et de travail en partenariat 
+Maitrise du cycle de projet
+Compétences en gestion RH, administrative et budgétaire
+Excellentes capacités rédactionnelles, communication et informatique 
+Adaptabilité / Polyvalence 
+Bonnes qualités relationnelles, capacités de travail et coordination d'équipe 
+Rigueur, sens de l'organisation, esprit de synthèse","[{'code': '121030', 'libelle': 'Outils de gestion de projet', 'exigence': 'S'}, {'code': '300408', 'libelle': ""Rédiger un rapport, un compte rendu d'activité"", 'exigence': 'S'}, {'code': '300440', 'libelle': 'Animer, coordonner une équipe', 'exigence': 'E'}, {'code': '300469', 'libelle': 'Préparer et animer une réunion, un groupe de travail, un atelier', 'exigence': 'S'}, {'code': '300487', 'libelle': 'Piloter une activité', 'exigence': 'E'}]","[{'libelle': 'Travailler en équipe', 'description': ""Capacité à travailler et à se coordonner avec les autres au sein de l'entreprise pour réaliser les objectifs fixés.""}, {'libelle': ""Faire preuve d'autonomie"", 'description': ""Capacité à prendre en charge son activité sans devoir être encadré de façon continue (le cas échéant, à solliciter les autres acteurs de l'entreprise).""}, {'libelle': 'Organiser son travail selon les priorités et les objectifs', 'description': 'Capacité à planifier, prioriser, anticiper des actions, en tenant compte des moyens, des ressources, des objectifs et du calendrier pour les réaliser.'}]",CDI,"{'libelle': '95 - ARGENTEUIL', 'latitude': 48.948465, 'longitude': 2.248202, 'codePostal': '95100', 'commune': '95018'}","{'nom': 'LE VALDOCCO', 'description': ""Depuis 1995, l'association Le Valdocco travaille auprès d'enfants et d'adolescents en difficulté sur différents quartiers de la ville d'Argenteuil. Notre approche globale (faire le lien entre Famille, Ecole et Cité) nous a amené à développer des activités variées, allant de l'animation de rue à la Prévention Spécialisée, et passant par des dispositifs de prévention du décrochage scolaire ou des activités de soutien à la scolarité.\n\nRémunération: selon C.C.N.66."", 'url': 'http://www.levaldocco.fr', 'entrepriseAdaptee': False}",Employé qualifié
+5,2023-04-18T16:45:03.000Z,2023-04-28T15:20:38.000Z,Chef.fe de projet Accompagnement Social - Pôle Programmes (H/F),"Date de début : Dès que possible
+
+Type de contrat : CDI
+
+Lieux : Pantin + déplacements fréquents
+
+ à prévoir à
+
+Pré-Saint-Gervais/Lilas/Bagnolet
+
+Aubervilliers
+
+Le Groupe Ares, Association pour la Réinsertion Économique et Sociale, est le premier acteur de l'insertion par l'activité économique en Ile-de-France. Depuis 1991, nous favorisons l'insertion de personnes en grande exclusion (chômeurs de longue durée, jeunes sans qualification, etc.) en leur proposant un parcours d'insertion fondé sur le travail salarié et un accompagnement social et professionnel individualisé.
+
+Pour accompagner près de 3000 personnes par an (incluant les salariés en insertion et les bénéficiaires de nos programmes), plus de 400 salariés permanents travaillent au siège à Pantin et dans les 17 établissements du groupe.
+
+Dans le cadre de la renationalisation du RSA, le Conseil Départemental a lancé un appel à manifestation d'intérêt pour identifier des opérateurs afin de piloter les Agences Locales d'Insertion, dont la mission est de proposer une nouvelle offre d'accompagnement socio-professionnel pour les allocataires du RSA. Ces ALI (Agences Locales d'Insertion) s'inscrivent en complément de Pôle Emploi (qui effectue le suivi des bénéficiaires n'ayant pas ou peu de difficultés sociales) et des travailleurs sociaux en circonscription sociale (pour les parcours à forte dominante sociale).
+
+Sous la responsabilité du/ de la directeur.trice de programme ALI, le/la chef.fe de projet accompagnement social a un rôle clé dans l'accompagnement des équipes sociales mobilisées au sein des Agences Locales d'Insertion (ALI), dans la mise en œuvre du projet social et de la méthodologie d'accompagnement et dans le développement des partenariats locaux.
+
+Vos principales missions consisteront à :
+
+Structurer la méthodologie sociale des ALI
+Contribuer à recruter, intégrer et accompagner les équipes sociales des ALI
+Soutenir les équipes sociales dans le lancement opérationnel des agences
+Piloter la démarche d'amélioration continue de la méthodologie d'accompagnement des ALI
+Apporter une expertise spécifique sociale complémentaire
+Développer la dynamique partenariale
+
+Votre formation : Formation Master 2 en travail social, ou une expérience significative dans l'insertion et l'emploi
+
+Votre expériences et compétences : Entre 5 et 10 ans d'expérience sur des missions d'accompagnement social et des compétences d'animation de groupes de travail, et de formation/accompagnement au développement des compétences des équipes. Une solide connaissance de l'accompagnement des publics très éloignés de l'emploi et une expérience en gestion de projets sont requises.
+
+Vos qualités personnelles : travail en équipe, autonomie, rigueur, anticipation et prise d'initiative. Construction du lien avec le partenaire, les collectivités et les acteurs institutionnels. Capacités éprouvées d'accompagnement d'une équipe à sa montée en compétences.
+
+Votre rémunération : CDI, statut cadre (classe IIIC dans la grille interne), 3089 € bruts mensuel, 39 heures hebdomadaires, Tickets restaurant de 8 € (dont 60% à la charge de l'employeur) par jour travaillé + mutuelle familiale + 6,5 jours de RTT + prime collective selon les résultats du groupe + jours de congés d'ancienneté. Possibilité de télétravail. Tarifs préférentiels sur l'achat de matériels reconditionnés (équipement informatique chez Ateliers Sans Frontières, équipement petits électroménagers chez RepareSeb).
+
+Nos + : Un employeur labellisé Great Place to Work. Un travail passionnant et enrichissant dans une entreprise responsabilisante, des équipes bienveillantes, engagées pour un même idéal, des perspectives d'évolution de carrière et de mobilité au sein d'un groupe reconnu dans son secteur.", , ,CDI,"{'libelle': '93 - PANTIN', 'latitude': 48.900267, 'longitude': 2.409457, 'codePostal': '93500', 'commune': '93055'}","{'nom': 'ARES', 'description': 'Le Groupe Ares, Association pour la Réinsertion Économique et Sociale, est le premier acteur de l insertion par l activité économique en Ile-de-France. Depuis 1991, nous favorisons l insertion de personnes en grande exclusion (chômeurs de longue durée, jeunes sans qualification, etc.) en leur proposant un parcours d insertion fondé sur le travail salarié et un accompagnement social et professionnel individualisé.', 'logo': 'https://entreprise.pole-emploi.fr/static/img/logos/4yBpyvGMSMEGYhBUZYlk9oy7XjTg9dBi.png', 'url': 'http://www.groupeares.fr/', 'entrepriseAdaptee': False}", 
+6,2023-04-13T11:08:03.000Z,2023-04-17T14:56:26.000Z,Responsable Projet Industriel HSE H/F (H/F),"Vos missions sont les suivantes :
+
+Le responsable HSE Projet Industriel est dédié (e) à la préparation et à la mise en application du système de management HSE des projets dont il ou elle est en charge, et suivant le périmètre ci-dessous :
+-   Mise en place des politiques et programmes pendant toute la durée et tous les phases du projet.
+-   Préparation du plan de déploiement du programme Pulse (programme de culture sécurité du groupe) 
+-   S'assurer que les procédures et plans HSE pour le projet sont mis en place, en accord avec les demandes du client, les exigences du groupe 
+-   Préparation de la stratégie HSE du projet et assiste le directeur / chef de projet dans la définition de l'imputabilité du groupe en cas d'incident HSE sur le projet
+-   Mise en place et animation du processus de gestion des risques et de suivi des plans d'actions.
+-   Mise en place des systèmes de mesures de performances HSE du projet : indicateurs proactifs et réactifs en accord avec les exigences du groupe et du client
+-   Assurer un reporting mensuel au client, 
+-   Dans un schéma d'exécution avec d'éventuels partenaires, et dans les termes des accords, agit en tant que leader opérationnel pour s'assurer que les meilleurs pratiques de l'industrie sont déployées pour le projet.
+-   Participation ou gestion des enquêtes d'accident classés SIF (Haut potentiel)
+-    Réalisation des audits et inspections sur le périmètre dont il a la responsabilité
+
+Profils recherchés :
+-      Titulaire d'un Master avec une spécialisation en Santé, Sécurité et Environnement avec expérience minimum de 7 à 10 ans dans une fonction similaire.
+-      Une expérience de travail offshore serait un plus,
+-      Auditeur certifié serait un plus,
+-      Grandes qualités de leadership et de communication, capable de mener et défendre les exigences HSE du groupe tout au long des projets,
+-      Capable de travailler dans un univers exigeant et mobile (déplacements ponctuels sur site en Afrique à prévoir),
+-      Expérience de la mise en application des meilleurs pratiques HSE, incluant notamment les exigences de de l'ISO 45001 et ISO 14001,
+-      Certificat BOSIET/HUET serait un plus.
+Vous êtes intéressé.e par cette opportunité ? N'hésitez plus et rejoignez leurs équipes !
+
+Rémunérations:
+Type de contrat : CDI 
+Salaire : Entre 60,000 et 64,000 € Brut /13 mois selon expérience
+Avantages liés au grand groupe    
+-  Possibilité de télétravail 
+-  Déplacements possible pour rendre visite à des sous-traitants", , ,CDI,"{'libelle': '75 - PARIS 01', 'latitude': 48.859, 'longitude': 2.347, 'codePostal': '75001', 'commune': '75101'}","{'nom': 'DANEM PEOPLE FRANCE', 'entrepriseAdaptee': False}", 
+7,2023-05-03T12:29:05.000Z,2023-05-03T12:29:05.000Z,RESPONSABLE D'APPLICATION ET CHEF DE PROJET DANS LES SI DE SANTÉ CDI (H/F),"Recherche: RESPONSABLE D'APPLICATION ET CHEF DE PROJET DANS LES SI DE SANTÉ CDI (H/F)
+Vos missions
+La Direction des Services Numériques (DSN) de L'AP-HP souhaite renforcer son équipe via le recrutement de Responsable d'application et de Chef de projet dans les SI de Santé.
+La DSN recherche des Responsables dapplications afin de maintenir en conditions opérationnelles un portefeuille dapplications de SI Santé. Ils s'assurent du recueil et qualifient les demandes et les besoins de maintenance corrective, évolutive et/ou préventive sur les applications qui leur sont confiées, ainsi que les évolutions imposées par les éditeurs (arbitrage, priorisation, planification). Ils anticipent les évolutions techniques et assurent le support N2-N3 de leurs applications. Ils veillent également aux évolutions réglementaires (RGPD, Sécurité SI) et technologiques des SI sur leur périmètre applicatif. Ils s'assurent auprès de ses utilisateurs, des formations continues afin de former les nouveaux ut...", , ,CDI,"{'libelle': '75 - PARIS 01', 'latitude': 48.859, 'longitude': 2.347, 'codePostal': '75001', 'commune': '75101'}",{'entrepriseAdaptee': False}, 
+8,2023-04-30T03:54:55.000Z,2023-04-30T03:54:55.000Z,Chef de projet IT Santé (H/F),"Choisir We+, c'est rejoindre un cabinet d'expertise IT proche de ses consultants, vous offrant des perspectives d'évolution ï&#x9A;&#x80; !
+Certifiée Happy At Work 2022, We+ valorise vos compétences, encourage vos initiatives et s'engage dans une démarche RSE ï&#x8C;&#x8F;
+Nos métiers d'expertise :- Mangement de projet- Infrastructure- Digital- Innovation
+Vos missions:- Conduire l'ensemble des phases du cycle de vie du projet après cadrage, jusqu'à la fin de période de garantie, dans le respect des normes et méthodes en vigueur- Participer au cadrage des projets : déterminez le périmètre, estimez, coordonnez les chiffrages et participez à la consolidation des charges et ressources nécessaires, établissez le planning, identifiez les impacts fonctionnels et/ou techniques- Coordonner les travaux de fabrication : organisez, planifiez et veillez au respect des engagements et des livrables (jalons, ressources, coûts, délais, qualité, etc.)- Coordonner la réalisation et la mise à jour de la documentation projet- Vous communiquez auprès des équipes et des instances de pilotage- Vous effectuez le reporting projet, identifiez les risques et remontez les alertes- Veiller à la résolution des incidents, jusqu'à la fin de garantie- Réaliser des bilans de projet dans une optique d'amélioration continue
+Votre profil:Vous avez minimum 2 ans d'expérienceVotre Leitmotiv est d'impulser une dynamique projet.Curieux(se) et diplomate, vous êtes à l'écoute des idées et méthodes de travail de vos pairs ! Le partage, l'échange et l'entraide sont des qualités importantes pour bien travailler ensemble.Reconnu par votre hauteur de vue, vous savez prendre du recul sur les différents sujets en cours
+Un dernier mot ?Faites-vous confiance, rejoignez une structure en plein essor et épanouissez-vous !", , ,CDI,"{'libelle': '83 - TOULON', 'latitude': 43.125, 'longitude': 5.931, 'codePostal': '83000', 'commune': '83137'}","{'nom': 'We+', 'entrepriseAdaptee': False}", 
+9,2023-04-21T12:35:58.000Z,2023-04-21T12:35:58.000Z,Chef de Projet Santé H/F,"Carte Blanche Partenaires intervient depuis 20 ans auprès des professionnels de santé et des assurances santé en développant des services innovants pour plus de 12,5 millions d'assurés, spécialiste de la santé visuelle, auditive et dentaire.Rattaché au Responsable Études et MOA, le Chef de Projet Santé aura pour principales missions :
+
+
+Comprendre les parties prenantes de l'écosystème concerné (syndicats, enseignes, organismes représentatifs.) et en assurer les échanges,
+Réaliser l'étude de marché avec le support d'expert,
+Définir les principes directeurs de l'offre et sa modélisation économique,
+Rédiger les conventions de partenariat avec les professionnels de santé,
+Élaborer les contrats de partenariat,
+S'assurer de la validité juridique du dispositif mis en place en collaboration avec les conseils externes, 
+Rédiger l'expression de besoin pour l'application informatique de l'offre,
+Rédiger et actualiser l'ensemble de la documentation de fonctionnement du réseau et des services,
+Animer les ateliers de travail et la conduite du projet,
+Participer aux instances techniques professionnelles.
+De formation Bac +5 minimum, vous êtes issu d'une formation de type école de commerce ou master 2, avec idéalement une spécialisation en assurance santé. Vous justifiez d'une expérience d'au moins 5 ans à un poste similaire.
+
+
+Vous savez très bien rédiger, vous avez un bon esprit d'analyse et d'anticipation. Vous êtes force de proposition, autonome, curieux, créatif, vous aimez travailler en équipe.
+
+
+Poste ouvert aux personnes en situation de handicap.", , ,CDI,"{'libelle': '75', 'latitude': 48.85661, 'longitude': 2.35222, 'commune': '75056'}","{'nom': 'Michael Page', 'entrepriseAdaptee': False}", 
+10,2023-04-21T04:57:16.000Z,2023-04-26T07:58:04.000Z,Chef de projet H/F 100% - Direction de la Recherche en Santé,"LOCALISATION : Direction de la Recherche en Santé (DRS) et sur les 4 groupements en fonction des réunions avec les cliniciens, probablement quelques réunions chez Roche à prévoir DESCRIPTIF DU POSTE / MISSIONS PRINCIPALES : Coordonner, sous la responsabilité du directeur de la DRS et en lien avec le comité de pilotage du partenariat, les équipes de Roche Diagnostics, les services médicaux des HCL, les unités de recherche et les autres directions des HCL et les services administratifs, la mise en oeuvre, l'organisation et le suivi du programme scientifique du partenariat.Assurer une fonction de liaison entre le comité de pilotage du partenariat et l'ensemble des acteurs impliqués : animer des points réguliers avec l'ensemble des partenaires concernant l'état d'avancement du programme, suivre le déroulement des activités, recenser les indicateurs, élaborer et mettre à jour des tableaux de bord, piloter les échéances, rédiger des rapports et comptes rendus.Planifier, organiser et animer des manifestations scientifiques permettant de nourrir le partenariat ; participer à la création d'outils de communication et proposer des actions de diffusion/dissémination permettant de promouvoir le partenariat.Faciliter et anticiper la réponse aux appels à projets nationaux et internationaux susceptibles de servir des projets portés par le partenariat. COMPÉTENCES / QUALITÉS REQUISES : Coordination de projets collaboratifs avec des cliniciens chercheurs ; gestion de projets ; rédaction de rapports, de projets de recherche et de demande de financement ; animation de réseau ; maitrise de l'anglais.Savoir-être : - Capacité à gérer des interfaces dans un environnement complexe et matriciel- Communication positive, capacité à convaincre, négocier et à s'adapter- Compétences d'organisation, de synthèse, de suivi de plan d'actions- Qualités d'animation et aptitude à travailler en équipe- Sens de la disponibilité et du service QUALIFICATIONS REQUISES / SOUHAITÉES :Formation scientifique (diplôme d'ingénieur, doctorat, pharmacien ou médecin) avec idéalement une expérience dans le montage et la coordination de programmes partenariaux dans le domaine de la recherche et/ou de l'innovation en santé.Expérience professionnelle dans le secteur académique, hospitalier et/ou industriel, avec une bonne connaissance de la recherche en santé. CONDITIONS ET ORGANISATION DE TRAVAIL :Contrat à durée indéterminée; selon les grilles de la fonction publique hospitalièrePoste à pourvoir dès que possible Fiche de poste 1.34 Mo Publié le : 30/03/2023 - 09:57", , ,CDI,"{'libelle': '69', 'commune': '69123'}",{'entrepriseAdaptee': False}, 
+11,2023-04-20T09:43:14.000Z,2023-04-20T09:43:14.000Z,Chef de Projet Santé H/F,"Rattaché au Responsable Études et MOA, le Chef de Projet Santé aura pour principales missions : 
+ * Comprendre les parties prenantes de l'écosystème concerné (syndicats, enseignes, organismes représentatifs.) et en assurer les échanges,
+ * Réaliser l'étude de marché avec le support d'expert,
+ * Définir les principes directeurs de l'offre et sa modélisation économique,
+ * Rédiger les conventions de partenariat avec les professionnels de santé,
+ * Élaborer les contrats de partenariat,
+ * S'assurer de la validité juridique du dispositif mis en place en collaboration avec les conseils externes, 
+ * Rédiger l'expression de besoin pour l'application informatique de l'offre,
+ * Rédiger et actualiser l'ensemble de la documentation de fonctionnement du réseau et des services,
+ * Animer les ateliers de travail et la conduite du projet,
+ * Participer aux instances techniques professionnelles.
+De formation Bac +5 minimum, vous êtes issu d'une formation de type école de commerce ou master 2, avec idéalement une spécialisation en assurance santé. Vous justifiez d'une expérience d'au moins 5 ans à un poste similaire.
+Vous savez très bien rédiger, vous avez un bon esprit d'analyse et d'anticipation. Vous êtes force de proposition, autonome, curieux, créatif, vous aimez travailler en équipe.
+Poste ouvert aux personnes en situation de handicap.", , ,CDI,"{'libelle': '75 - Paris (Dept.)', 'latitude': 48.867905, 'longitude': 2.344107}","{'nom': 'Michael Page', 'entrepriseAdaptee': False}", 
+12,2023-04-17T07:48:44.000Z,2023-04-17T07:48:44.000Z,Chef de projet déploiement logiciels de santé H/F,"Présentation de l'entreprise
+ ICFI est une entreprise d'informatique dont l'activité se situe essentiellement dans le secteur de la santé.
+ Indépendante de tout groupe, elle privilégie les relations humaines tant avec ses clients qu'avec ses collaborateurs.
+ Nos chefs de projets, assistants de projets et formateurs interviennent sur tout le territoire dans le cadre de déploiement de logiciels auprès de structures hospitalières, de groupes de santé (cliniques Ehpad, PUI) sur différents logiciels (dossiers patients, dossiers résidents, dossier pharmaceutiques, programme HOP'EN) etc.
+ Poste proposé
+ Vous interviendrez en tant que chef de projet fonctionnel dans le cadre du déploiement de Systèmes d'Information Hospitaliers (SIH) et en particulier d'un Dossier Patient Informatisé (DPI) au sein d'un ou plusieurs établissement publics français au sein d'une équipe spécialisée dans ce domaine
+ Ce poste est basé en région Lyonnaise avec des déplacements ponctuels en France
+ * En tant que chef de projet, vous organiserez le déploiement des logiciels : présentation, planning, gestion des ressources, lien avec les établissements) .
+ * Vous reportez au directeur de projet présent sur Lyon
+ * Vous remontez les questions techniques aux services techniques en charge du support ou du développement du DPI
+ Compétences et qualités attendues
+ Vous avez déjà travaillé en environnement hospitalier et connaissez les SIH
+ Vous connaissez des dossiers patients informatisés
+ Vous avez géré des projets si possible dans le domaine hospitalier
+ Les « savoir-être » : Autonomie. Aisance relationnelle. Sens du service. Savoir s'adapter à ses interlocuteurs, à son milieu, aux imprévus. Empathie . organisation
+ - Capacité à travailler avec et faire travailler ensemble les équipes d'experts techniques.
+ - Rigueur dans la conduite de projet.
+ Une connaissance du secteur de la santé est souhaitable.
+ Une expérience minimale de 2 ans en tant que chef de projet est demandée
+ Type d'emploi : Temps plein, CDIStatut : Cadre
+ Salaire : 42 000,00€ à 52 000,00€ par an
+ Avantages :
+ * Épargne salariale
+ * Participation au transport
+ * Titre-restaurant
+ Programmation :
+ * Périodes de travail de 8 heures
+ * Travail en journée
+ Types de primes et de gratifications :
+ * Prime annuelle
+ Mesures COVID-19:Vous interviendrez en milieu hospitalier et devrez vous conformer aux règles en vigueur.
+ Question(s) de présélection:
+ * Combien d'années d'expérience avez vous dans le secteur de la santé ?
+ Lieu du poste : Un seul lieu de travail", , ,CDI,{'libelle': '69 - Rhône'},{'entrepriseAdaptee': False}, 
+13,2023-04-17T07:48:05.000Z,2023-04-17T07:48:05.000Z,chef de projet scientifique nutrition santé (H/F),"Au sein du Pôle Sciences et Economie vous intégrez l'équipe Sciences qui a pour missions principales de fournir à la filière des connaissances et références scientifiques sur la qualité sanitaire, technologique et nutritionnelle du lait et des produits laitiers.
+ Dans le cadre de vos missions, axées sur la Recherche en Nutrition et Santé, vous aurez notamment à :
+ · Assurer le pilotage de projets de recherche :
+ - Mettre en œuvre des projets de recherche et assurer la coordination de tous les acteurs impliqués,
+ - Organiser et animer des réunions de suivi des projets de recherche en collaboration étroite avec les interlocuteurs internes et les partenaires externes,
+ - Suivre le budget des projets qui vous sont confiés et respecter les délais,
+ - Valoriser les résultats en interne comme en externe : interprétation des résultats des études en les mettant en perspective ; recommandations sur l'utilisation directe des résultats.
+ · Être en veille permanente sur les domaines scientifiques d'intérêt
+ · Analyser et synthétiser les connaissances scientifiques pour participer à l'identification de nouveaux axes de recherche
+ · Définir des nouveaux projets de recherche en fonction des besoins exprimés par les différentes instances et la gouvernance du Cniel
+ · Rédiger ou participer à la rédaction de documents (lettres de veille, argumentaires, rapports de synthèse.).
+ Vous travaillez en mode projet en collaborant étroitement avec les différentes équipes du Pôle et du CNIEL (Communication santé, Réglementaire, Information aux professionnels, ...) et avec nos interlocuteurs externes (experts scientifiques, partenaires académiques, homologues internationaux...).
+ Type d'emploi : Temps plein, CDIStatut : Cadre
+ Salaire : 42 000,00€ à 43 000,00€ par an
+ Avantages :
+ * Participation au transport
+ * RTT
+ * Titre-restaurant
+ Programmation :
+ * Du lundi au vendredi
+ * Travail en journée
+ Types de primes et de gratifications :
+ * 13ème Mois
+ Formation:
+ * Bac +8 (Doctorat) (Exigé)
+ Lieu du poste : Un seul lieu de travail", , ,CDI,{'libelle': '75 - Paris (Dept.)'},{'entrepriseAdaptee': False}, 
+14,2023-04-12T21:46:32.000Z,2023-04-12T21:46:32.000Z,Chef de projet informatique SANTE ( EAI Flux / Interfaces hl7 ) (IT) / Freelance (H/F),"Rattaché à al DSI, vous interviendrez en tant que Chef de projet interopérabilité et vous assurerez la gestion du volet interopérabilité dans le cadre du déploiement des nouvelles interfaces avec les éditeurs.
+Piloter les différentes phases dinstallation interopérabilité. En tant quexpert, vous assurez directement le paramétrage des connexions nécessitant un niveau dexpertise.
+ Piloter et réaliser des phases de tests avec les éditeurs
+ Participer à la rédaction des éléments documentaires liés au livrable interopérabilité
+ Etre responsable du livrable interopérabilité
+Profil candidat:
+De formation informatique, vous avez de lexpérience (minimum 5 ans) sur des projets interopérabilités.
+- Connaissance des normes déchanges utilisées pour la santé : HL7, IHE, Hprim Santé, Hprim XML 
+- Connaissance technique : SQL, réseau
+- Technique de gestion de projet
+- Autonomie, leadership, esprit collaboratif, écoute active
+- Bonne communication, capacité à challenger les contributeurs aux projets
+Important: la connaissance des produits dEAI du marché ( Jeebop, enovacom..etc)", , ,LIB,"{'libelle': '75', 'commune': '75056'}",{'entrepriseAdaptee': False}, 
+15,2023-04-12T21:43:47.000Z,2023-04-12T21:43:47.000Z,Appui PMO au chef de projet informatique MOE SI Santé - Indépendant/Freelance H/F (IT) / Freelance,"Depuis plus de 7 ans, HR DNA accompagne les entreprises de toute taille sur l'ensemble de leurs problématiques de recrutement. Notre entreprise fonctionne comme une start-up sans hiérarchie prononcée ou process cloisonnant ! 
+L'autonomie, la proactivité et l'inventivité ne sont pas que des mots : c'est notre méthode de travail ! Découvrez une nouvelle façon de travailler, un environnement collaboratif : vous travaillerez avec les fondateurs, les responsables de BU et les consultants. 
+HRDNA est viscéralement attachée aux valeurs telles que la bienveillance et l'honnêteté, que ce soit envers ses collaborateurs, ses fournisseurs ou ses consultants. 
+C'est dans ce contexte que vous pourrez réaliser, au quotidien, des missions variées, auprès d'une clientèle diversifiée !
+Dans le cadre d'un recrutement en Freelance/Indépendant, HR DNA recherche pour l'un de ses clients situé à Nanterre un Appui PMO au chef de projet MOE SI Santé F/H. 
+Le Client a comme principal enjeu de :
+- Garantir le MCO des applications fournissant des services RH (Formation, Mobilité, Prévention, Médecine de travail et de contrôle, risque chimique...) aux acteurs de la filière RH élargie (managers, MOA RH, Médecins, etc.)
+- Accompagner les métiers dans la modernisation de leurs SI multi plate-forme 
+Vos missions sont les suivantes : 
+La prestation implique des échanges avec l'ensemble des acteurs du Projet, les autres groupes et structures du département ainsi que les métiers représentés par les commanditaires et les opérateurs RH des différentes sociétés clientes.
+- Une prestation d'appui technique 
+- Un rôle de PMO auprès de la chef de projet du client sur les deux projets menés en parallèle
+- Organisation et appui au pilotage des projets 
+- Elaboration et mise à jour de plannings
+- Préparation de supports de réunions 
+- Rédaction de compte-rendu
+- Rédaction de documents projets type support de jalons, 
+- Rédaction de supports budgétaires
+- Analyse de risques
+- Elaboration d'alertes
+- Garantir la mise à jour des outils de pilotage 
+- Contribution et participation aux instances de gouvernance du projet
+- Organiser des ateliers de travail avec les parties prenantes techniques (IT-O, TMA, etc.)
+- Capacité à animer des ateliers avec les parties prenantes projet, préparés avec la Chef de Projet
+Compétences :
+- Bonne communication
+- Proactivité et prise d'initiative
+- Organisation et rigueur
+- Expérience significative sur un projet similaire
+- Date de démarrage : idéalement dès que possible 
+Rémunération : selon le profil 
+Rejoignez nous !", , ,LIB,"{'libelle': '92 - NANTERRE', 'latitude': 48.896668, 'longitude': 2.20237, 'codePostal': '92000', 'commune': '92050'}",{'entrepriseAdaptee': False}, 
+16,2023-04-12T06:13:08.000Z,2023-04-12T06:13:08.000Z,Chef de projet - Application Santé (H/F),"La société : 
+
+Vous aimez relever les défis, vous êtes dynamique et passionné(e) par les projets IoT et/ou les applications digitales - Alors, Agixis est la tribu de vos rêves !
+Créée par une équipe de passionnés, comme un cadeau, la veille de Noël 2010, Agixis est une société de conseil et d'expertise IT, spécialiste du marché de l'IoT « Internet Of Things ». Elle conçoit et développe des solutions ambitieuses pour les projets innovants de ses clients, afin de les accompagner dans la conquête de leurs marchés, en créant de nouveaux services à forte valeur ajoutée.
+Sa baseline reflète la vision de la société : « All connected » !!
+Le poste : 
+
+Au sein d'une équipe composée de 12 experts, tu aborderas différentes thématiques liées au secteur médical et aux architectures .NET web. Tu pilotes ton projet et accompagnes ton équipe en méthode agile, sur chacun des sprints.  
+Piloter le projet en méthodologies Agiles projets et garantir les clauses contractuelles, les coûts, qualité, délais de chacun, 
+Manager les équipes et les accompagner dans leur évolution, 
+Gérer la relation client en assurant : le suivi, les comités de pilotage mensuels, les comités stratégiques..., 
+Assurer le reporting auprès de la Direction. 
+Profil recherché : 
+
+En plus de ta formation supérieure, tu as au moins 5 ans d'expérience en chefferie de projet IT. Agiliste, tu es convaincu par les méthodes agiles. Au-delà de tes compétences techniques, tu aimes relever les défis, tu es dynamique et passionné par les projets IoT et/ou les applications digitales.  
+Pourquoi Agixis - Intégrer nos équipes d'Agiciens, c'est rejoindre une communauté où la convivialité et la solidarité animent notre quotidien. Notre management humain, te permet d'être accompagné dans le développement de tes compétences et dans la construction d'une carrière qui te ressemble.", , ,CDI,"{'libelle': '69 - VILLEURBANNE', 'latitude': 45.768975, 'longitude': 4.890035, 'codePostal': '69100', 'commune': '69266'}","{'nom': 'Agixis', 'description': 'Agixis', 'entrepriseAdaptee': False}", 
+17,2023-04-08T06:18:16.000Z,2023-04-08T06:18:16.000Z,Chef de projet - IT - Santé Social Emploi - Île-de-France - (H/F),"Sopra Steria, l'un des leaders européens de la Tech reconnu pour ses activités de conseil, de services numériques et d'édition de logiciels, aide ses clients à mener leur transformation digitale et à obtenir des bénéfices concrets et durables. Il apporte une réponse globale aux enjeux de compétitivité des grandes entreprises et organisations, combinant une connaissance approfondie des secteurs d'activité et des technologies innovantes à une approche résolument collaborative. Sopra Steria place l'humain au centre de son action et s'engage auprès de ses clients à tirer le meilleur parti du digital pour construire un avenir positif. Fort de 47 000 collaborateurs dans près de 30 pays, le Groupe a réalisé un chiffre d'affaires de 4,7 milliards d'euros en 2021.The world is how we shape it.Pour plus d'informations, retrouvez-nous sur www.soprasteria.com/frVotre futur environnement de travailLa division Santé Social Emploi, partenaire de premier ordre de la modernisation et la transformation numérique des organismes de santé et de protection sociale touchant les domaines de l'intelligence artificielle, le Big Data, la réalité virtuelle, le serious game, la mobilité?Vous aussi participez au monde numérique de demain !Vos tâchesVous êtes en immersion totale au sein d'une équipe projet où la bonne humeur rime avec efficacité. Véritable acteur majeur de l'avant-vente, vous supervisez plusieurs projets en cycle traditionnel ou en agile, dans un environnement technique orienté Java :- Face au client, vous êtes responsable de la définition de la solution (enjeux, stratégie, maitrise des risques, planning, staffing, livrables, etc.) ;-Vous êtes garant du respect des engagements de services au forfait (coût, délais, qualité) ;-Vous animez les instances de pilotage ;- Avec votre équipe, vous êtes garant(e) en toute autonomie de la bonne avancée des projets en vous assurant du respect des engagements et de la satisfaction client, dans un souci de fidélisation. Vous assurez également le suivi et la montée en compétence des membres de votre équipe ;- Avec la structure, vous assurez un reporting de qualité, et savez donner la visibilité avec la juste hauteur de vue aux différents interlocuteurs de votre entité opérationnelle.Bien sûr, ces tâches peuvent évoluer afin d'être aussi bien à l'écoute de vos envies et désirs d'apprentissage que des besoins du projet.Vous allez ainsi rejoindre un environnement technologique riche et varié notamment JAVA, Angular, Springbatch.Ce que nous vous proposonsCe que nous proposons- Un accord télétravail pour télétravailler jusqu?à 2 jours par semaine selon vos tâches. (à préciser uniquement si le poste en question est éligible au télétravail)- Un package avantages intéressant : une mutuelle, un CSE, des titres restaurants, un accord d?intéressement, des primes vacances et cooptation.- Un accompagnement individualisé avec un mentor.Des opportunités de carrières multiples : plus de 50 métiers, autant de passerelles à imaginer ensemble.- Plusieurs centaines de formations accessibles en toute autonomie depuis l?app mobile avec Sopra Steria Academy.- La possibilité de s'engager auprès de notre fondation ou de notre partenaire « Vendredi ».- L'opportunité de rejoindre le collectif Tech'Me UP (formations, conférences, veille, et bien plus encore?).Votre profilVous êtes issu(e) d'un Master 2 (Ecole d'Ingénieurs ou Universitaire) et possédez au moins 5 ans d'expériences en management de projet dans des environnements complexes et exigeants, à engagement de résultats.Le pilotage d'un projet à enjeux, la gestion d'une relation client, la pédagogie et le management opérationnel d'une équipe d'environ 5 à 10 personnes n'ont plus aucun secret pour vous.Vous avez acquis une certaine hauteur de vue, vous permettant de comprendre les enjeux stratégiques d'un projet.Orienté business et résultat, vous aimez fédérer les équipes en direct et/ou transverse vers un objectif commun, dans un modèle RH orienté collaborateur.Enfin, vous possédez une expérience technique significative qui vous permet d'être proche du terrain et de comprendre l'architecture globale du projet.Vous voulez travailler sur des projets qui allient challenge techniques, nouvelles technologies et innovation ?Alors intégrez une entreprise où règne un esprit entrepreneurial fort et une atmosphère propice à votre évolution : participez sans plus attendre à une transformation durable grâce à une véritable aventure humaine au sein d'un grand groupe international.Chez Sopra Steria, nous sommes engagés pour lutter contre toute forme de discrimination. Nous favorisons un environnement de travail inclusif et respectueux de toutes les différences.Tous nos postes sont ouverts aux personnes en situation de handicap.https://www.soprasteria.fr/nous-connaitre/no", , ,CDI,{'libelle': '75 - Paris (Dept.)'},"{'nom': 'Forum Emploi-Formation-Alternance: Talents Handicap', 'entrepriseAdaptee': False}", 
+18,2023-04-06T15:13:41.000Z,2023-04-26T09:09:00.000Z,Chef de projet technique informatique F/H (secteur santé) (H/F),"Chef de projet technique informatique F/H (secteur santé)CDI (statut cadre) à Rennes (35) / Télétravail partielMin. 3 ans d'expérience en tant que chef de projet informatiqueRémunération selon votre expérience et vos compétences : 38 à 45K€ bruts annuels (hors avantages Scalian). Qui êtes-vous ?Vous recherchez un nouveau challenge en gestion de projets informatiques ?D'un naturel dynamique, curieux et proactif, vous êtes naturellement fédérateur(trice) et aimez travailler en autonomie. mais pas tout seul !Au-delà d'un poste, vous êtes attentif(ve) à la qualité de vie au travail et souhaitez rejoindre une entreprise qui place l'humain au cœur de son projet ?On vous attend chez Scalian !Quel sera votre rôle ?Nous accompagnons notre client, acteur majeur du numérique dans les établissements de santé et le secteur public, dans ses projets et recrutons un Chef de projet informatique (F/H) à Rennes (35).Vous organisez et conduisez les projets techniques de bouten bout. Vous assumez la responsabilité des différentes phases depuis latraduction des besoins utilisateurs jusqu'à la recette utilisateurs et la miseen production. Vous assurez également le suivi auprès du client, et la facturation et la rentabilité des projets eninterne. La mission principale s'articule autour de trois grands axes :Le déploiement : conduite de projet mono-domaine, assurer des maîtrises d'œuvre transversales, comprendre, recueillir et analyser les besoins des clients, superviser la conception et la réalisation de projets, animer des réunions internes de coordination, négocier et rédiger les documents contractuels, déployer la stratégie industrielle de l'entreprise sur les projets, recueillir des indicateurs qualité produits et projets, conseiller et assister les chefs de projets ;Le suivi progiciel : gérer les réunions de crise en lien avec les autres équipes en interne et le client ;L'avant-vente : Piloter des réponses à appel d'offre.Vous serez également amené à travailler sur une mission spécifique, sur laquelle vous assurez des prestations d'assistance à Maîtrise d'ouvrage, des maîtrises d'œuvre d'intégration et des prestations de responsable de compte. Vous gérez également le département ""projet"" (budget, reporting, etc.) et établissez des devis pour certains clientsOutils et environnement (bases techniques requises) : Linux (commandes de base, fonctionnement général)Oracle (fonctionnement général), EAI (connaissances de base).Ce que cette expérience va vous apporterVous bénéficierez grâce à Scalian d'un accompagnement et d'un plan de formation personnalisésAu sein de notre agence rennaise, vous pourrez vous appuyer sur une communauté dynamique et engagée, et prendre part à de nombreux rendez-vous et événements : réunions mensuelles, présentation des projets de l'agence, événements tout au long de l'annéeEt bien sûr, vous pourrez vous impliquer au sein de l'agence en partageant vos idées !Ce que nous recherchons chez vous De formation Bac+3 à Bac+5, vous avez acquis une expérience d'au moins 3 ans en gestion de projets informatiques techniques ;Vous avez des connaissances techniques sur les points mentionnés en description.Vous aimez le travail en équipe, particulièrement le partage de connaissances pour faciliter la montée en compétences.Pourquoi feriez-vous le grand saut ?Parce que Scalian est ungroupe de spécialistes, porteur d'un projet de développement ambitieux, tourné vers l'innovation et engagé auprès deses clients où vous pourrez :Construire un parcours professionnel sur mesure, adapté à vos envies, grâce à la variété des missions dans votre aire d'expertise et les passerelles entre les métiersApprendre par la qualité des projets sur lesquels vous interviendrez, dans votre spécialité, et grâce au large catalogue formations délivrées par notre Academy interneDisposer d'un cadre social attractif et respectueux des besoins de chacun (accord télétravail, crèches, couverture sociale, flexibilité, mobilité douce.)Contribuer à des sujets de R&D ou participer à des projets internesFaire partie d'une équipe conviviale qui saura fairerimer travail avec plaisir !Evoluer dans un environnementbienveillant qui privilégie une expérience collaborateur dequalité. Le leadership, la confiance, l'inclusion, l'innovation et les valeurspositives qui nous animent quotidiennement, nous ont permis d'être reconnuset récompensés par le label Great Place To Work®.Qui sommes-nous ?Humans& technology to scale up sustainable performanceCréé en 1989, Scalian est ungroupe français à dimension internationale, avec des bureaux en Europe etAmérique du Nord, spécialisé dans la transformation des entreprises par sadouble maitrise des processus métiers et des technologies digitales.Dans le TOP10 des sociétés deconseil en Ingénierie en France, le Groupe intervient sur des activités deservices", , ,CDI,"{'libelle': '35 - RENNES', 'latitude': 48.110899, 'longitude': -1.68365, 'codePostal': '35000', 'commune': '35238'}",{'entrepriseAdaptee': False}, 
+19,2023-04-05T03:11:12.000Z,2023-04-05T03:11:12.000Z,CHEF(FE) DE PROJET STATION SANTE - H/F,"Description :
+
+
+  Le CHU de Bordeaux est un établissement public de santé ayant pour missions : le soin, l'enseignement et la recherche, ainsi qu'à titre subsidiaire, la réalisation de prestations de service, la valorisation des activités de recherche et leurs résultats, l'exploitation des brevets et des licences.
+L'innovation technologique au CHU de Bordeaux se caractérise par plus de 80 projets faisant l'objet d'un titre de propriété intellectuelle, plusieurs succès de transfert industriel notamment dans le domaine du numérique en santé et le financement de grands programmes de RetD (ex. RHU Digital Urology)
+Pour la réalisation de ses missions de recherche et de valorisation de leurs résultats, le CHU de Bordeaux s'appuie sur sa Direction de la Recherche Clinique et de l'Innovation (DRCI). Le personnel de la DRCI est composé de personnels médicaux (12.45 ETP) et de personnels non-médicaux (322.4 ETP)
+Au sein de la DRCI, le département « Innovation et Evaluation médico-économique » de la DRCI a trois missions principales :
+Détecter et accompagner «de l'idée au marché » des projets innovants portant sur des technologies de santé en interne au CHU de Bordeaux (professionnels de santé) ou en collaboration avec des producteurs de technologies (notamment PME/Start-ups).
+Accompagner le montage de projets de recherche partenariaux de RetD et/ou d'évaluation clinique et/ou médico-économique sur les technologies de santé (Appel à projets nationaux ANR, DGOS, BPI, Région) en lien avec les autres départements de la DRCI
+Aider à la décision locale en matière d'intégration d'innovation technologique dans les processus de soins
+Station E-Santé est le tiers lieu d'expérimentation en santé numérique de la 1ère région française en croissance d'emplois de la filière numérique, représentant 50 % du chiffre d'affaire et de l'emploi de la e-santé en France, et la 3ème région de la filière Ed Tech. Station Santé vise à accompagner les industriels du numérique en Santé dans la conception et l'évaluation de leurs solutions numériques en facilitant l'accès à l'expertise clinique, scientifique et technologique de ses membres. Le consortium Station Santé rassemble [1] des structures de soins représentatives des pratiques et défis de la santé dans tout le parcours de soins afin de donner aux expérimentations et tests d'usages leur utilité la plus aboutie : le CHU de Bordeaux, chef de file, le Centre Hospitalier Charles Perrens spécialisé dans les pathologies mentales, le Centre Hospitalier de la Côte Basque, AGORA Lib' regroupant les 47 CPTS de la Région Nouvelle Aquitaine, le GHT Gironde. [2] des compétences scientifiques pluridisciplinaires avec l'Université de Bordeaux, le CNRS, l'INSERM [3] des compétences technologiques et méthodologiques avec le CATIE, Centre de Ressources Technologiques régional dédié au numérique et aux nouvelles technologies digitales [4] Des structures socio-économiques avec la technopôle UNITEC, la SATT Aquitaine Science Transfert et les pôles Digital Aquitaine et ALLIS-NA qui offrent une capacité d'animation, de détection et d'accompagnement des entreprises indispensables à la vie et pérennisation du Tiers Lieu
+En lien avec le responsable Innovation de la DRCI et les référents médicaux du projet Station Santé, la mission générale consiste à accompagner la structuration et la coordination du consortium Station E-Santé dans le respect de la feuille de route et des objectifs partagés par l'ensemble des partenaires du consortium.
+Le chef de projet STATION E-SANTE aura notamment en charge de :
+COORDINATION DU PROCESSUS SELECTION DES SOLUTIONS NUMERIQUES
+Mettre en œuvre le processus de détection et sélection des solutions numériques à expérimenter (formulaire en ligne, AAP annuels, comité de sélection) en lien avec les terrains d'expérimentation et les coordinateurs de filières ;
+Coordonner une réflexion sur l'opportunité de créer un ou plusieurs lieux physiques d'accueil des entreprises pour faciliter les échanges et la mise en œuvre des expérimentations ;
+COORDINATION ET SUIVI DES PROJETS D'EXPERIMENTATION
+Coordonner le montage et la mise en place des expérimentations sélectionnées en lien avec les parties prenantes ;
+Assurer le reporting des expérimentations et la performance des processus d'expérimentation ;
+MOBILISATION DES TERRAINS D'EXPERIMENTATION
+Mettre en œuvre les actions de développement et de mobilisation des terrains d'expérimentation
+Coordonner l'identification des besoins des professionnels de santé ;
+Etendre le réseau de structure de soins ;
+ELABORER AVEC LES STRUCTURES PARTENAIRES UNE OFFRES DE SERVICES « STATION E-SANTE » COHERENTE
+Analyser et valoriser les offres et compétences de chaque partenaire ;
+Créer et faire évoluer une offre", , ,CDD,"{'libelle': '33 - TALENCE', 'latitude': -0.587962, 'longitude': 44.808843, 'codePostal': '33400', 'commune': '33522'}","{'nom': 'CENTRE HOSPITALIER UNIVERSITAIRE DE BORDEAUX', 'entrepriseAdaptee': False}", 
+20,2023-04-04T07:14:02.000Z,2023-04-26T16:57:59.000Z,CHEF DE PROJET SCIENTIFIQUE NUTRITION SANTÉ F/H (H/F),"L'interprofession laitière, le CNIEL, a été créée en 1973 par les producteurs et les transformateurs.
+Le CNIEL remplit deux objectifs principaux : faciliter les relations entre producteurs et transformateurs de la filière laitière et promouvoir l'image du lait et des produits laitiers. Il a notamment pour mission de définir et mettre en oeuvre des programmes de recherche d'intérêt collectif, de participer à la recherche nutritionnelle et à la diffusion de ses résultats.
+Nous rejoindre, c'est aussi avoir envie de contribuer aux engagements de responsabilité sociétale de la filière laitière et à la démarche France Terre de Lait.
+Au sein du Pôle Sciences et Economie vous intégrez l'équipe Sciences qui  a pour missions principales de fournir à la filière des connaissances et références scientifiques sur la qualité sanitaire, technologique et nutritionnelle du lait et des produits laitiers.
+Dans le cadre de vos missions, axées sur la Recherche en Nutrition et Santé, vous aurez notamment à :
+- Assurer le pilotage de projets de recherche :
+- Mettre en oeuvre des projets de recherche et assurer la coordination de tous les acteurs impliqués,
+- Organiser et animer des réunions de suivi des projets de recherche en collaboration étroite avec les interlocuteurs internes et les partenaires externes,
+- Suivre le budget des projets qui vous sont confiés et respecter les délais,
+- Valoriser les résultats en interne comme en externe : interprétation des résultats des études en les mettant en perspective ; recommandations sur l'utilisation directe des résultats.
+- Être en veille permanente sur les domaines scientifiques d'intérêt
+- Analyser et synthétiser les connaissances scientifiques pour participer à l'identification de nouveaux axes de recherche
+- Définir des nouveaux projets de recherche en fonction des besoins exprimés par les différentes instances et la gouvernance du Cniel
+- Rédiger ou participer à la rédaction de documents (lettres de veille, argumentaires, rapports de synthèse...).
+Vous travaillez en mode projet en collaborant étroitement avec les différentes équipes du Pôle et du CNIEL (Communication santé, Réglementaire, Information aux professionnels, ...) et avec nos interlocuteurs externes (experts scientifiques, partenaires académiques, homologues internationaux...).
+Docteur en sciences dans le domaine de la Nutrition-Santé Humaine, vous justifiez d'une expérience de 3 à 5 ans dans l'industrie agro-alimentaire ou pharmaceutique, et / ou d'une expérience de collaboration avec la recherche industrielle.
+La connaissance de la filière laitière (production et transformation) et de la matrice laitière serait un plus
+Les compétences suivantes seront nécessaires à la tenue du poste :
+- Gestion de projet
+- Capacité d'analyse et de synthèse, aptitudes rédactionnelles
+- Aisance relationnelle et sens politique, capacité à adapter sa communication selon son auditoire
+- Ouverture et esprit d'équipe
+- Capacités organisationnelles, sens des priorités
+- Très bonne maîtrise de l'anglais : travail avec des experts et interlocuteurs internationaux", , ,CDI,"{'libelle': 'France', 'latitude': 48.876987, 'longitude': 2.337538}",{'entrepriseAdaptee': False}, 
+21,2023-03-24T11:59:48.000Z,2023-03-24T11:59:48.000Z,Chef de projet e-santé H/F,"Amiltone - Amiltone (Référence : 2004026) / Vos missions ? 
+  Intégré chez l'un de nos clients ou notre Factory, vous interviendrez en tant que chef de projet.
+En tant que Chef de projet e-santé (H/F), vous assurez les missions suivantes, au sein d'une équipe déjà existante :
+Prendre en charge la gestion des projets de déploiements de nos solutions chez les nouveaux clients 
+Animer des ateliers, des formations avec les équipes et être force de proposition sur l'expérience patient connectée 
+Coordonner les ressources techniques en interne et en externe 
+Contribuer à la roadmap de nos produits en l'enrichissant des retours 
+ Alors ? Prêt à devenir Amiltonien ? 
+N'hésitez pas à postuler si vous vous reconnaissez :
+  De formation supérieure BAC+5 (Master ou école d'ingénieur), vous justifiez d'au moins 3 ans d'expérience en gestion de projet.
+Vous avez une connaissance du monde de la santé et de ses organisations sera un plus apprécié.
+Vous savez faire preuve d'autonomie, de leadership, et d'ôté d'un bon relationnel client.
+Vous êtes à l'aise en allemand, aussi bien à l'écrit qu'à l'oral : des déplacements en Allemagne , sont à prévoir. 
+Outre vos compétences techniques, nous nous intéressons également à votre potentiel et votre motivation.
+ Nos postes sont ouverts aux personnes en situation de handicap.", , ,CDI,"{'libelle': '13 - MARSEILLE 01', 'latitude': 43.296482, 'longitude': 5.36978, 'codePostal': '13001', 'commune': '13201'}","{'nom': 'Amiltone', 'description': ""Qui sommes-nous\xa0?\nNous sommes passionnés par les nouvelles technologies, et vous ?\xa0\nRejoindre Amiltone, c'est intégrer des équipes dynamiques et soudées dans le cadre de projets novateurs et ambitieux. Nous relevons les challenges techniques de nos clients et les accompagnons dans leur transformation digitale.\n\xa0\nPourquoi choisir Amiltone\u202f?\xa0\n\xa0Amiltone, plus qu'une entreprise, un état d'esprit\xa0!\nNotre objectif\xa0?\xa0Votre épanouissement professionnel\xa0..."", 'entrepriseAdaptee': False}", 
+22,2023-05-02T12:12:19.000Z,2023-05-02T12:12:19.000Z,Chef de projets SI en santé (H/F),"Description du contexte :
+Le service de santé des armées (SSA), centré sur l'opérationnel, est un partenaire privilégié des composantes métiers (Médecine des Forces, Hôpital, Ravitaillement Sanitaire, Formation, Recherche). En tant que chef de projet, vous êtes intégré au bureau Médecine des Forces, rattaché à la division SI Opérations de la DSIN-S et évolue sous la responsabilité du chef de bureau et intégrez une équipe de 8 personnes.
+Vous intervenez dans toutes les étapes de la réalisation des projets informatique du périmètre qui vous est assigné. Vous êtes en relations avec tous les prestataires extérieurs et les responsables fonctionnels de votre périmètre métier. 
+Missions principales :Intervenir sur toutes les étapes de la réalisation d'un projet informatique : depuis le recensement et l'analyse des besoins, jusqu'à la mise en exploitationEtre force de proposition apporter son expertise aux membres de l'équipe sur la partie technique (analyse des besoins, procédures techniques)Organiser et animer les réunions projetsPrendre en charge la mise en œuvre technique, calendaire et financière d'un projetVeiller à l'alignement des éléments techniques (applicatifs, infrastructure) avec les objectifs en matière de maîtrise des engagements de service (coûts, délais, qualité) et de satisfaction des utilisateursContribuer, en lien avec les équipes techniques, au maintien en condition opérationnelle (MCO) et au maintien en condition de sécurité (MCS)Assurer une veille sur les technologies relatives à son périmètre projet
+Les missions se déclinent sur un périmètre large constitué de différents SI dédiés au suivi de la santé du personnel du Ministère.
+Activités attachées au poste :Assurer le suivi du support technique des SIParticiper à la création/évolution d'interfaces (interconnexion et interopérabilité)Participer aux différents comités de suivi et de pilotageRédiger/valider les spécifications techniques des projetsAnalyser techniquement les offres des prestatairesMettre en place et faire remonter les indicateurs de suivi
+Compétences attendues : Maitrise des méthodes de conduite de projet (cycle en V/ Agile)Maitrise des concepts généraux IT (Windows server, Linux, Réseaux TCP/IP, VLAN, SQL)Connaissances en APIConnaissances en SSI/RGPDAptitudes :Rigueur, excellente gestion des prioritésÊtre à l'écoute et capacité à communiquerAutonomie et polyvalenceAptitude et goût pour le travail en équipeAutres informations : Salaire selon profilJunior accepté", , ,CDI,"{'libelle': '94 - ST MANDE', 'latitude': 48.84, 'longitude': 2.417, 'codePostal': '94160', 'commune': '94067'}","{'nom': 'Civils de la Défense', 'entrepriseAdaptee': False}", 
+23,2023-04-17T06:42:16.000Z,2023-04-17T06:42:16.000Z,Pharmacien / médecin Chef de projet (H/F),"Le Dispositif Spécifique Régional du Cancer NEON recrute un Médecin / Pharmacien(ne) en charge de la coordination de projets 
+ EntrepriseLe premier objectif du Dispositif Spécifique Régionale du Cancer Grand Est est de développer du lien entre les acteurs de santé du territoire, en décloisonnant et en améliorant les pratiques de prise en charge des patients atteints de cancer. L'équipe travaille dans une logique interdisciplinaire visant à mobiliser et à fédérer les acteurs autour de projets communs au regard des missions qui lui sont confiées.
+ Le DSRC Grand Est NEON a son siège social à Vandœuvre-lès-Nancy, un site sur Reims et un sur Strasbourg. L'équipe pluridisciplinaire est composée de 17 personnes.
+ Descriptif du postePlacé(e) sous la responsabilité de la directrice médicale, le chef de projet s'inscrit dans les missions du DSRC suivantes : promouvoir la qualité et la sécurité des traitements des patients atteints de cancer, développer l'expertise et l'expérimentation de projets communs innovants et accompagner les évolutions de l'offre de soins en cancérologie.
+ En lien avec l'équipe, il/elle pilote et met en œuvre principalement :
+ * Le suivi de groupes de travail pluridisciplinaires chargés de la mise à jour des connaissances, des bonnes pratiques de soins et/ou de l'organisation de parcours, .
+ * La gestion et le suivi d'outils de bonnes pratiques de soins en cancérologie (outil d'édition collaborative ONCOLOGIK, . )
+ * La gestion et le suivi du référencement des essais cliniques en cancérologie (répertoire HECTOR)
+ * Le suivi d'actions régionales en appui de la directrice médicale
+ Compétences techniques, qualité, connaissances
+ Cet emploi nécessite une rigueur organisationnelle, des qualités relationnelles et des aptitudes au management par projet. Une bonne maîtrise des outils informatiques et une aisance rédactionnelle sont indispensables.ie
+ Diplôme requis :
+ Le profil est ouvert aux médecins ou pharmaciens, spécialistes en santé publique ou formés à l'ingénierie organisationnelle ou à la qualité, et ayant un intérêt ou une expérience dans le domaine de la cancérologie, des organisations en santé.
+ Expérience : Expérience de 5 ans minimum dans la santé et/ou en gestion de projets
+ Lieu d'activité : Vandœuvre-lès-Nancy
+ Contrat : CDI temps plein
+ Secteur d'activité : association de droit privé
+ Rémunération : en fonction du profil et de l'expérience
+ Déplacements : occasionnels
+ Candidature : Lettre de candidature et CV à adresser à
+ Dr Carole AYAV Directrice médicale
+ DSRC Grand Est NEON
+ Date limite des candidatures : 23 avril 2023
+ Type d'emploi : Temps plein, CDIStatut : Cadre
+ Avantages :
+ * Participation au transport
+ Programmation :
+ * Du lundi au vendredi
+ * Travail en journée
+ Types de primes et de gratifications :
+ * Prime annuelle
+ Lieu du poste : En présentiel
+ Date limite de candidature : 26/04/2023Date de début prévue : 01/06/2023", , ,CDI,"{'libelle': '54 - VANDOEUVRE LES NANCY', 'latitude': 48.661501, 'longitude': 6.162621, 'codePostal': '54500', 'commune': '54547'}",{'entrepriseAdaptee': False}, 
+24,2023-04-28T11:18:12.000Z,2023-04-28T11:18:12.000Z,"Chef de Projet Qualité - Processus Organisation industrielle F/H - Administration, gestion, organisation (H/F)","Descriptif du poste:
+
+Pour INGECENTRE, groupe orléanais au service de l'industrie pharmaceutique et cosmétique, membre de POLEPHARMA et de COSMETIC VALLEY, dans l'objectif de structurer son organisation, la Direction recrute un Responsable Qualité Méthode en charge de l'optimisation des processus industriels.
+En lien étroit avec le dirigeant, vous proposez et mettez en place des projets de transformation afin de rationaliser l'activité, améliorer la productivité, réduire le coût de la non-qualité, apporter de la méthode dans les actions et de proposer une reconnaissance qualité aux clients, grands-comptes de l'industrie pharmaceutique, cosmétique et biotechnologique.
+Auprès de tous les services de l'entreprise, vous définissez et accompagnez la mise en place de nouvelles procédures et méthodes de travail tout en incluant les différentes contraintes réglementaires et techniques afin d'atteindre efficience et qualité de l'organisation industrielle au sein du Groupe :
+-vous réalisez un état des lieux des pratiques et procédures de travail (audit organisationnel)
+-vous définissez, formalisez et mettez en œuvre des nouvelles méthodes
+-vous améliorez nos process de fonctionnement interne
+-vous uniformisez les méthodes de travail
+-vous mettez en place des indicateurs Qualité
+-vous concevez des tableaux de bord de suivi des indicateurs
+-vous déterminez des modes opératoires normés pour toutes nos actions : normalisation des documents internes, mise en place d'une double signature des documents émis .
+-vous analysez les causes de la non-qualité et réduisez les coûts des non-conformités
+-vous mettez en place un plan d'actions préventives
+-vous veillez à la maîtrise de notre impact environnemental avec objectif zéro déchet non recyclé
+-vous impliquez et déclinez auprès de tous les collaborateurs la démarche QHSE
+-vous formez le personnel à l'utilisation des documents normés et à prévention des risques
+-vous rédigez la documentation nécessaire au management QHSE
+-vous êtes force de proposition dans le développement de la performance industrielle.
+
+Profil recherché:
+
+De formation supérieure en Qualité, vous possédez une 1ère expérience de qualiticien dans l'industrie.
+Familier avec les normes qualité telles que ISO 9001 et 14001, vous avez participé, voire piloté et initié une démarche QHSE.
+Nécessairement organisé, méthodique et rigoureux, vous êtes doté d'un esprit analytique et pragmatique.
+Orienté amélioration continue, autonome et adaptable, vous savez faire preuve de persuasion et de pédagogie pour sensibiliser les équipes.", , ,CDI,"{'libelle': '45 - ORLEANS', 'latitude': 47.873361, 'longitude': 1.910372, 'codePostal': '45000', 'commune': '45234'}","{'nom': 'INGECENTRE', 'description': ""Né en 2009 avec le projet de répondre aux besoins des services techniques de l'industrie pharmaceutique et cosmétique, INGECENTRE Group, groupe Orléanais composé de 3 entités au service de\xa0l'industrie pharmaceutique, biotechnologique et cosmétique, accompagne l'ensemble des phases industrielles de projets d'investissements à forts enjeux technologiques et financiers, dans le respect des exigences règlementaires, pour l'industrie pharmaceutique, biotechnologique et cosmétique.\nA..."", 'entrepriseAdaptee': False}", 
+25,2023-04-28T06:44:05.000Z,2023-04-28T06:44:05.000Z,Chef de Projet Affaires Réglementaires F/H (H/F),"QUELLES MISSIONS VOUS SERONT CONFIEES ?
+ 
+Au sein de la Direction des Affaires Scientifiques & Médicales et rattaché.e au Responsable Affaires Réglementaires, vous aurez pour responsabilités de décliner la stratégie réglementaire en conformité avec les exigences réglementaires locales et internationales.
+ 
+A ce titre, vos missions principales seront les suivantes :
+
+ * Participer à l'élaboration de la stratégie réglementaire et exécuter les activités réglementaires globales de votre unité (enregistrement, cycle de vie) en relation avec les autres unités du département, les autres départements et filiales/représentants du groupe
+ * Contribuer à la coordination de la préparation des dossiers d'AMM
+ * Apporter une expertise réglementaire en interne (notamment concernant l'impact réglementaire des demandes de changement) et externe (partenaires/ autorités/inspections)
+ * Coordonner la préparation des expertises nécessaires aux dossiers avec les experts internes ou externes
+ * Préparer et coordonner les demandes réglementaires (variations CMC)
+ * Consolider les réponses aux questions et engagements des autorités en coordination avec les métiers
+ * Contribuer à la mise à jour régulière des bases de données réglementaires
+ * Anticiper les nouvelles exigences réglementaires en intégrant les informations fournies par la veille réglementaire
+ * Réaliser les activités en adéquation avec les valeurs de l'entreprise et en conformité avec les procédures, règlements et normes applicables
+QUEL PROFIL POUR CETTE OPPORTUNITE ?  
+
+ * Pharmacien ou formation scientifique de niveau Bac+5, avec diplôme de troisième cycle spécialisé en affaires réglementaires ou équivalent ou expérience sur missions réglementaires de 3 ans environ
+ * Anglais professionnel
+ * Maîtrise du Pack Office
+ * Esprit d'équipe et de collaboration, capacité d'adaptation
+
+QUELS AVANTAGES LIES A CE POSTE ?
+
+ * CDD jusqu'à décembre 2023
+ * Accord de télétravail : jusqu'à 2 jours par semaine dès 4 mois d'ancienneté
+ * Possibilité de travailler depuis le site de La Défense (jusqu'à 2 jours par semaine)
+ * Jours RTT
+ * Participation aux frais de transport : prise en charge à 50% Pass Navigo ou forfait mensuel en fonction du lieu d'habitation
+ * Navette quotidienne LFB : Les Ulis / Massy
+ * Mutuelle, Prévoyance, PEG/PERE-CO avec abondement, Prime d'intéressement
+ * CE, Restaurant d'entreprise, Salle de sport", , ,CDD,"{'libelle': '91 - LES ULIS', 'latitude': 48.679298, 'longitude': 2.1665, 'codePostal': '91940', 'commune': '91692'}","{'nom': 'LFB', 'description': ""Entreprise pharmaceutique française, le LFB produit 15 biomédicaments indispensables au traitement de patients atteints de maladies graves et souvent rares, prescrits essentielle- ment à l'hôpital. Notre savoir-faire repose sur le développement et la fabrication de médicaments dérivés du plasma et des protéines recombinantes.\nActeur engagé auprès des patients en France et à l'international, nous sommes une entreprise à taille humaine, forte de nos 2500 collaborateurs dans l..."", 'entrepriseAdaptee': False}", 
+26,2023-04-16T16:33:32.000Z,2023-04-17T16:27:56.000Z,Chef de projet engineering F/H - Qualité (H/F),"Descriptif du poste:
+Sous l'autorité du Responsable engineering, votre rôle et de réaliser et conduire les projets techniques du site. Vos missions seront les suivantes :
+
+- Réaliser les avants projets : être force de proposition, orienter et déterminer les dimensionnements des équipements et le choix des solutions techniques
+- Adapter la conception et le choix des moyens de production à installer via les échanges avec les fournisseurs d'équipements
+- Élaborer le cahier des charges à partir des besoins définis par les donneurs d'ordres internes 
+- Piloter les projets et être garant de leur bon déroulement 
+- Coordonner les différents acteurs impliqués dans les projets : production, qualité, maintenance, fournisseurs... et assurer un reporting régulier
+- Effectuer les tests préliminaires machines et vérifier la bonne installation des équipements 
+- Assister le département qualité pour les phases de validation/qualification des équipements
+- Être le support technique pour la formation des utilisateurs et opérateurs
+- Procéder à une vieille technologique afin d'étudier et de proposer de nouvelles technologies
+
+Profil recherché:
+Profil :
+
+- De formation ingénieur généraliste en industrie pharmaceutique ou agroalimentaire de préférence 
+- Vous avez des compétences en gestion de travaux neufs et d'investissement 
+- Vous avez des capacités en management transverse 
+- Vous avez des compétence anglais 
+
+Vous êtes réactif, rigoureux et curieux. Vous avez un bon esprit d'équipe, être communiquant, méthodique et dynamique. Vous avez gérer des projets, communiquer et gérer les priorités.
+
+Ce poste est ouvert en CDI avec un package salariale très avantageux.", , ,CDI,"{'libelle': '60 - BEAUVAIS', 'latitude': 49.439897, 'longitude': 2.087073, 'codePostal': '60000', 'commune': '60057'}","{'nom': 'Talents Industrie', 'description': ""Nous accompagnons les entreprises et les candidats au travers de prestations de Recrutement et Intérim spécialisées sur les fonctions Techniques et Scientifiques liées à l'Industrie.\n\nTalents Industrie, la division spécialisée sur les métiers techniques en Industrie, accompagne de manière personnalisée ses clients et candidats. La réactivité, l'efficacité et la confidentialité sont des valeurs fortes sur lesquelles votre consultant s'engage afin d'atteindre vos objectifs prof..."", 'entrepriseAdaptee': False}", 
+27,2023-04-05T12:00:33.000Z,2023-04-17T16:17:14.000Z,"CHEF DE PROJET EN DEVELOPPEMENT/VALIDATION ANALYTIQUE R&D  CDD 8 mois F/H - Test, essai, validation, expertise (H/F)","Descriptif du poste:
+
+Eurofins Amatsi Analytics, filiale d'Eurofins BPT France, groupe pharmaceutique à dimension internationale en forte croissance (450 collaborateurs, 45 millions d'euros de chiffre d'affaires), spécialiste dans les activités de services dédiés au développement de produits pharmaceutiques humains et vétérinaires et les Dispositifs médicaux, recrute pour son site de Fontenilles.
+Directement rattaché(e) au Responsable des Chefs de Projets study base et dans le cadre d'un remplacement congés maternité dans l'industrie pharmaceutique, vous serez chargé(e) de :
+* Assurer le suivi de projets pour mener à bien le développement ou la validation de méthodes adaptées et fiables pour le compte de nos clients (matrices biologiques ou dispositifs médicaux, Matières Premières, Produits Finis). Votre connaissance de la réglementation en vigueur (GLP, GCP, cGMP, ICH,) vous permet de développer et/ou valider les méthodes analytiques en cohérence avec la stratégie réglementaire définie,
+* Assurer le bon déroulement des analyses en coordonnant leur planification et leur contrôle, dans le respect des procédures et des consignes de sécurité. Vous supervisez le travail d'analyse des techniciens et validez les résultats,
+* Interpréter les résultats d'analyses et assurer la fiabilité (vérification des données brutes),
+* Rédiger la documentation liée aux études (protocole ou plan d'étude, rapports, méthode),
+* Evaluer la performance des méthodes (pré-validation, robustesse, .),
+* Communiquer les résultats aux clients,
+* Optimiser les procédures/process internes et mener des plans d'action au sein du service,
+* Travailler dans un environnement qualité BPL et BPF
+
+Profil recherché:
+
+Diplômé au minimum d'un Bac+5 en chimie analytique ou équivalent, avec une première expérience réussie dans un poste similaire et de bonnes connaissances théoriques et pratiques des méthodes physico-chimiques d'analyse (HPLC, HPLC- MS/MS, techniques d'extraction, GC, ICP etc) et du cycle de vie des méthodes / médicaments.
+Excellent communicant, sens du service client, force de proposition, vous aimez le travail en équipe et avez un excellent relationnel. Vous êtes autonome avec un esprit d'initiative, curieux et une bonne capacité d'adaptation aux constantes évolutions technologiques et réglementaires dans les domaines analytiques et cGxP.
+Un bon niveau en Anglais est requis (clients à l'international, écrit, oral).
+La connaissance des logiciels Masslynx, Analyst, Masshunter serait un plus.
+Vous souhaitez valoriser vos compétences dans une société dynamique offrant de réelles perspectives de carrière, alors rejoignez-nous !", , ,CDD,"{'libelle': '31 - FONTENILLES', 'latitude': 43.550962, 'longitude': 1.20299, 'codePostal': '31470', 'commune': '31188'}","{'nom': 'EUROFINS BPT', 'description': ""Avec plus de 61 000 collaborateurs dans 61 pays, Eurofins fournit des prestations d'analyses aux industries pharmaceutiques, alimentaires et dans le domaine de l'environnement.\nA la pointe des derniers développements en biotechnologies, en très forte croissance et leader dans son domaine d'activité, Eurofins est une société dynamique et ambitieuse avec la vision de devenir le leader mondial du marché de la bio-analyse.\nRejoindre Eurofins, c'est démarrer une expérience riche en ch..."", 'entrepriseAdaptee': False}", 
+28,2023-04-04T09:03:36.000Z,2023-04-17T16:23:36.000Z,CHEF DE PROJET EN CONTRÔLE QUALITE / STABILITE F/H - Qualité (H/F),"Descriptif du poste:
+
+Sous la responsabilité du groupe leader, dans le cadre d un remplacement congés maternité, dans le contexte de l industrie pharmaceutique, vous effectuerez les missions suivantes :
+* Assurer le suivi de dossiers analytiques pour mener à bien les analyses physico-chimiques des matières premières, produits semi-finis et finis et articles de conditionnement pour le compte de nos clients. Votre connaissance de la réglementation en vigueur (cGMP, ICH, USP, Ph. Eur.) vous permet de piloter le suivi de stabilité et les contrôles des analyses CQ en cohérence avec la réglementation BPF.
+* Assurer le suivi des études de vérification conformément aux textes ICH Q2 et ph. Eur. 5.26 et  USP 1226 pour le compte de nos clients.
+* Assurer le suivi des études de stabilité des produits finis ou matières premières qui vous sont confiés.
+* Assurer le bon déroulement des analyses en coordonnant leur planification et leur suivi, dans le respect des procédures et des consignes de sécurité. Vous supervisez le travail d analyse des techniciens et validez les résultats dans le LIMS.
+* Rédiger la documentation analytique (méthode d analyse, protocole/rapport )
+* Interpréter les résultats d'analyses et assurer la fiabilité (vérification des données brutes)
+* Communiquer avec les clients (résultats, état d avancement )
+* Participer à l optimisation des procédures/proces
+* Travailler dans un environnement qualité BPF
+
+Profil recherché:
+
+Diplômé au minimum d'un Bac+5 en chimie analytique ou équivalent, idéalement avec une expérience à un poste similaire et de très bonnes connaissances théoriques et pratiques des méthodes physico-chimiques d'analyse (HPLC, CPG, dissolution, etc) et du cycle de vie des méthodes / médicament.
+Excellent communicant, sens du service client, force de proposition, vous aimez le travail en équipe et avez un excellent relationnel. Vous êtes autonome avec un esprit d'initiative, rigoureux, organisé et une bonne capacité d'adaptation aux constantes évolutions des demandes client. Vous pratiquez l'anglais aussi bien à l'oral qu'à l'écrit.
+Vous souhaitez valoriser vos compétences dans une société dynamique offrant de réelles perspectives de carrière, alors rejoignez-nous !", , ,CDD,"{'libelle': '31 - FONTENILLES', 'latitude': 43.550962, 'longitude': 1.20299, 'codePostal': '31470', 'commune': '31188'}","{'nom': 'EUROFINS BPT', 'description': ""Avec plus de 61 000 collaborateurs dans 61 pays, Eurofins fournit des prestations d'analyses aux industries pharmaceutiques, alimentaires et dans le domaine de l'environnement.\nA la pointe des derniers développements en biotechnologies, en très forte croissance et leader dans son domaine d'activité, Eurofins est une société dynamique et ambitieuse avec la vision de devenir le leader mondial du marché de la bio-analyse.\nRejoindre Eurofins, c'est démarrer une expérience riche en ch..."", 'entrepriseAdaptee': False}", 
+29,2023-04-19T05:41:08.000Z,2023-04-19T05:41:08.000Z,Formateur santé-sécurité au travail  () - temps partiel ou temps plein H/F,"jeune entreprise dynamique en pleine croissance, est spécialisée dans le développement de la culture santé-sécurité pour les entreprises en particulier dans l'industrie (diagnostic, conseil et formation).
+Dans le cadre de notre développement, nous créons un poste de formateur/rice en santé-sécurité au travail. Nous recherchons avant tout des talents dans l'animation de formation, pour déclencher des électrochocs chez nos clients.
+ 
+ 
+Au sein d'une équipe de  personnes, vous animerez des formations sur la sécurité comportementale et la santé au travail.
+Pour ce poste, nous attendons une personne de terrain, expérimentée en animation de formation et ayant un grand sens de la pédagogie. Vous cumulez des expériences de type animatrice(eur) santé-sécurité en entreprise, sapeur-pompier, formatrice(eur) en formation réglementaire (  incendie.), ce poste est une réelle opportunité pour votre carrière. Vous suivrez un parcours de formation interne, au «   » pour monter en compétences sur nos programmes de formation.
+ 
+Vous savez écouter, vous aimez transmettre, vous êtes pragmatique, dynamique et autonome, vous êtes à l'aise avec tous les niveaux hiérarchiques d'une organisation, vous avez envie de grandir dans une entreprise en pleine évolution, pleine d'idées et de dynamisme (réunion d'équipe mensuelle, 3 séminaires par an, Groupes de Travail Projets.), alors adressez-nous votre lettre de motivation avec  ainsi que vos prétentions salariales.
+ 
+Parler idéalement Allemand et/ou Espagnol et/ou Anglais serait un plus.
+ 
+Des déplacements réguliers sont à prévoir sur toute la France (et à l'Etranger si vous êtes multilingues).
+ 
+Véhicule de fonction - Frais de déplacements pris en charge en totalité - Mutuelle et prévoyance - Convention collective  - prise en compte des heures de récupération. Intéressement avec possibilité d'intégration dans un  Primes vacances. Primes sur objectifs.
+ 
+Poste à pourvoir  -", , ,CDI,"{'libelle': '75 - PARIS 04', 'latitude': 48.854042, 'longitude': 2.356841, 'codePostal': '75004', 'commune': '75104'}",{'entrepriseAdaptee': False}, 
+30,2023-04-19T05:36:57.000Z,2023-04-19T05:36:57.000Z,Consultant formateur en culture santé et sécurité (temps plein ou partiel) H/F,"Notre société est spécialisée dans le diagnostic, le conseil, l'accompagnement et la formation pour renforcer la Culture santé-sécurité dans les entreprises.
+ 
+Dans le cadre de notre développement au niveau National, nous recherchons un/e consultant(e) formateur/rice santé-sécurité ().
+Au sein d'une équipe de  personnes, vous réaliserez des diagnostics culture santé-sécurité et suivrez l'accompagnement des projets de nos clients. Vous concevrez, adapterez et animerez des formations en management de la santé et de la sécurité. Vous bénéficierez d'une période d'intégration et de formation au « Style  » pour assurer vos missions.
+ 
+Pour ce poste, nous attendons une personne de terrain, de formation supérieure minimum, ayant exercé des fonctions de coordination ou d'animation en santé-sécurité pendant au moins  ans sur des sites industriels et ayant animé régulièrement des formations devant des publics différents. Une expérience en production industrielle et/ou en management serait appréciée.
+Vous bénéficierez d'un statut cadre, le contrat de travail est régi par la   un véhicule de fonction est fourni. Des déplacements nationaux fréquents sont à prévoir. Possibilité de temps partiel. Le poste est à pourvoir pour 
+Vous êtes très à l'aise dans l'animation avec les différents niveaux hiérarchiques d'une organisation, vous aimez transmettre, vous êtes pragmatique, dynamique et autonome, vous avez envie de grandir dans une  en pleine évolution, alors adressez-nous votre lettre de motivation, votre  et vos prétentions salariales. Parler Anglais et/ou Allemand et/ou Espagnol serait un plus.", , ,CDI,"{'libelle': '86 - POITIERS', 'latitude': 46.586616, 'longitude': 0.356849, 'codePostal': '86000', 'commune': '86194'}",{'entrepriseAdaptee': False}, 
+31,2023-04-19T05:36:57.000Z,2023-04-19T05:36:57.000Z,Consultant formateur en culture santé et sécurité (temps plein ou partiel) H/F,"Notre société est spécialisée dans le diagnostic, le conseil, l'accompagnement et la formation pour renforcer la Culture santé-sécurité dans les entreprises.
+ 
+Dans le cadre de notre développement au niveau National, nous recherchons un/e consultant(e) formateur/rice santé-sécurité ().
+Au sein d'une équipe de  personnes, vous réaliserez des diagnostics culture santé-sécurité et suivrez l'accompagnement des projets de nos clients. Vous concevrez, adapterez et animerez des formations en management de la santé et de la sécurité. Vous bénéficierez d'une période d'intégration et de formation au « Style  » pour assurer vos missions.
+ 
+Pour ce poste, nous attendons une personne de terrain, de formation supérieure minimum, ayant exercé des fonctions de coordination ou d'animation en santé-sécurité pendant au moins  ans sur des sites industriels et ayant animé régulièrement des formations devant des publics différents. Une expérience en production industrielle et/ou en management serait appréciée.
+Vous bénéficierez d'un statut cadre, le contrat de travail est régi par la   un véhicule de fonction est fourni. Des déplacements nationaux fréquents sont à prévoir. Possibilité de temps partiel. Le poste est à pourvoir pour 
+Vous êtes très à l'aise dans l'animation avec les différents niveaux hiérarchiques d'une organisation, vous aimez transmettre, vous êtes pragmatique, dynamique et autonome, vous avez envie de grandir dans une  en pleine évolution, alors adressez-nous votre lettre de motivation, votre  et vos prétentions salariales. Parler Anglais et/ou Allemand et/ou Espagnol serait un plus.", , ,CDI,"{'libelle': '17 - BUSSAC SUR CHARENTE', 'latitude': 45.792401, 'longitude': -0.618102, 'codePostal': '17100', 'commune': '17073'}",{'entrepriseAdaptee': False}, 
+32,2023-04-19T05:36:56.000Z,2023-04-19T05:36:56.000Z,Consultant formateur en culture santé et sécurité (temps plein ou partiel) H/F,"Notre société est spécialisée dans le diagnostic, le conseil, l'accompagnement et la formation pour renforcer la Culture santé-sécurité dans les entreprises.
+ 
+Dans le cadre de notre développement au niveau National, nous recherchons un/e consultant(e) formateur/rice santé-sécurité ().
+Au sein d'une équipe de  personnes, vous réaliserez des diagnostics culture santé-sécurité et suivrez l'accompagnement des projets de nos clients. Vous concevrez, adapterez et animerez des formations en management de la santé et de la sécurité. Vous bénéficierez d'une période d'intégration et de formation au « Style  » pour assurer vos missions.
+ 
+Pour ce poste, nous attendons une personne de terrain, de formation supérieure minimum, ayant exercé des fonctions de coordination ou d'animation en santé-sécurité pendant au moins  ans sur des sites industriels et ayant animé régulièrement des formations devant des publics différents. Une expérience en production industrielle et/ou en management serait appréciée.
+Vous bénéficierez d'un statut cadre, le contrat de travail est régi par la   un véhicule de fonction est fourni. Des déplacements nationaux fréquents sont à prévoir. Possibilité de temps partiel. Le poste est à pourvoir pour 
+Vous êtes très à l'aise dans l'animation avec les différents niveaux hiérarchiques d'une organisation, vous aimez transmettre, vous êtes pragmatique, dynamique et autonome, vous avez envie de grandir dans une  en pleine évolution, alors adressez-nous votre lettre de motivation, votre  et vos prétentions salariales. Parler Anglais et/ou Allemand et/ou Espagnol serait un plus.", , ,CDI,{'libelle': '49 - Maine et Loire'},{'entrepriseAdaptee': False}, 
+33,2023-04-19T05:36:56.000Z,2023-04-19T05:36:56.000Z,Consultant formateur en culture santé et sécurité (temps plein ou partiel) H/F,"Notre société est spécialisée dans le diagnostic, le conseil, l'accompagnement et la formation pour renforcer la Culture santé-sécurité dans les entreprises.
+ 
+Dans le cadre de notre développement au niveau National, nous recherchons un/e consultant(e) formateur/rice santé-sécurité ().
+Au sein d'une équipe de  personnes, vous réaliserez des diagnostics culture santé-sécurité et suivrez l'accompagnement des projets de nos clients. Vous concevrez, adapterez et animerez des formations en management de la santé et de la sécurité. Vous bénéficierez d'une période d'intégration et de formation au « Style  » pour assurer vos missions.
+ 
+Pour ce poste, nous attendons une personne de terrain, de formation supérieure minimum, ayant exercé des fonctions de coordination ou d'animation en santé-sécurité pendant au moins  ans sur des sites industriels et ayant animé régulièrement des formations devant des publics différents. Une expérience en production industrielle et/ou en management serait appréciée.
+Vous bénéficierez d'un statut cadre, le contrat de travail est régi par la   un véhicule de fonction est fourni. Des déplacements nationaux fréquents sont à prévoir. Possibilité de temps partiel. Le poste est à pourvoir pour 
+Vous êtes très à l'aise dans l'animation avec les différents niveaux hiérarchiques d'une organisation, vous aimez transmettre, vous êtes pragmatique, dynamique et autonome, vous avez envie de grandir dans une  en pleine évolution, alors adressez-nous votre lettre de motivation, votre  et vos prétentions salariales. Parler Anglais et/ou Allemand et/ou Espagnol serait un plus.", , ,CDI,"{'libelle': '33 - BORDEAUX', 'latitude': 44.851895, 'longitude': -0.587877, 'codePostal': '33000', 'commune': '33063'}",{'entrepriseAdaptee': False}, 
+34,2023-05-03T04:57:22.000Z,2023-05-03T13:19:58.000Z,"Responsable HSE Projet Senior - Subsea Africa F/H - Maintenance, sécurité (H/F)","Descriptif du poste:
+
+
+
+
+
+ A propos du poste
+
+Chez TechnipFMC, nous réalisons des projets critiques d'une ampleur, d'une portée et d'une difficulté que vous ne trouverez pas ailleurs. Nous recherchons un.e Responsable HSE Projet Senior - Subsea Africa (H/F) à pourvoir en CDI. Il/elle sera intégré.e au sein du Département HSE Subsea Africa à Paris, reportant hiérarchiquement au responsable HSE Subsea Africa et opérationnellement au Directeur / chef de projet.
+
+Description de poste
+
+Le responsable HSE Projet Senior Subsea Africa est dédié.e à la préparation et à la mise en application du système de management HSE des projets dont il ou elle est en charge, et suivant le périmètre ci-dessous :
+* Met en place des politiques et programmes de TechnipFMC pendant toute la durée et toutes les phases du projet.
+* Assiste le Directeur / Chef de projet dans le développement du leadership HSE de l'équipe de gestion de projet.
+* Prépare le plan de déploiement du programme Pulse (programme de culture sécurité du groupe) sur le projet, en lien avec le responsable du département HSE.
+* A une compréhension claire des demandes réglementaires s'appliquant aux projets, dans toutes ses localisations et s'assure que les moyens nécessaires soient définis et mis en place pour la conformité à ces réglementations.
+* S'assure que les procédures et plans HSE pour le projet sont mis en place, en accord avec les demandes du client, les exigences de TechnipFMC et qu'elles sont appliquées à tout le personnel et sous-traitants.
+* Prépare la stratégie HSE du projet et assiste le directeur / chef de projet dans la définition de l'imputabilité de TechnipFMC en cas d'incident HSE sur le projet.
+* Est le support du responsable marché de travaux du projet dans la qualification des sous-traitants, développe lorsque cela s'impose un plan d'action visant à aligner les pratiques HSE du sous-traitant avec les exigences de TechnipFMC.
+
+ 
+
+ 
+
+
+Profil recherché:
+
+
+A propos de vous
+* Diplôme Master avec une spécialisation en Santé, Sécurité et environnement,
+* Expérience  de minimum 7 ans en tant qu'HSE Manager sur projets Subsea de préférence,
+* Familié.e des spécificités HSE liées aux opérations de construction en mer,
+* Fait preuve d'une approche opérationnelle du HSE,
+* Une expérience de travail offshore serait un plus,
+* Auditeur certifié serait un plus,
+* Maîtrise des spécificités de TOPSET (enquête incidents) serait un plus,
+* Grandes qualités de leadership et de communication, capable de mener et défendre les exigences HSE de TechnipFMC tout au long des projets,
+* Capable de travailler dans un univers exigeant et mobile (déplacements ponctuels sur site en Afrique à prévoir),
+* Capable de coordonner des équipes dans un contexte multi culturel,
+* Expérience de la mise en application des meilleurs pratiques HSE, incluant notamment les exigences de de l'ISO 45001 et ISO 14001,
+* Connaissance du logiciel INTELEX serait un plus.
+* Certificat BOSIET/HUET serait un plus.", , ,CDI,"{'libelle': '92 - COURBEVOIE', 'latitude': 48.897998, 'longitude': 2.256986, 'codePostal': '92400', 'commune': '92026'}","{'nom': 'TechnipFMC', 'description': ""À propos de TechnipFMC\n\nTechnipFMC est leader mondial dans la fourniture de technologies pour l'industrie des énergies traditionnelles et nouvelles en livrant des projets, des produits et des services entièrement intégrés. Avec nos technologies brevetées et nos solutions globales, nous transformons l'économie des projets de nos clients en les aidant à saisir de nouvelles opportunités de développement des ressources énergétiques, tout en réduisant l'intensité carbone et en..."", 'entrepriseAdaptee': False}", 
+35,2023-04-08T03:12:24.000Z,2023-04-08T03:12:24.000Z,CADRE SUPÉRIEUR DE SANTÉ - CHARGÉ DE PROJET - H/F,"Description :
+
+
+  Le cadre supérieur de santé assure les missions qui lui sont confiées, en lien et en collaboration avec les équipes des secteurs concernées par ses activités. Il contribue à l'accompagnement et à la mise en œuvre du projet de soins
+Il gère en proximité l'équipe de JLD renfort jour / nuit.
+Activités permanentes
+En tant que référent du projet de soins, en lien avec la coordonnatrice générale des soins :
+Assure le déploiement des axes du projet de soins
+Participe à l'élaboration et à la communication des plans d'actions visant l'atteinte des objectifs par thématique
+Organise le recueil des indicateurs de suivi et en propose l'analyse
+Anime les groupes de travail mettant en œuvre du projet de soins
+Accompagne l'évolution des pratiques professionnelles et pilote de développement du raisonnement clinque partagé dans une démarche de Qualité, de sécurité et de bientraitance dans les soins
+En tant qu'encadrement de proximité de l'équipe JLD renfort jour / nuit
+Assure le management des professionnels
+Organise les accompagnements relatifs aux missions de l'équipe en lien avec l'encadrement des unités des soins
+Soutient les équipes dans la gestion des situations complexes (violence, conflits.)
+En tant que référent de l'accueil de l'intégration des nouveaux arrivants :
+Met en œuvre la politique d'accueil des nouveaux arrivants en collaboration avec la DRH (plus particulièrement le service de formation continue) et l'encadrement,
+Participe à la politique de promotion professionnelle et de parcours professionnels qualifiants
+En tant que référent de l'accueil de l'accompagnement des stagiaires :
+Met en œuvre la politique d'accueil et d'encadrement des stagiaires en collaboration avec les écoles / instituts de formation et l'encadrement, définit des parcours de stages et anime des groupes de travail
+Est l'Interlocuteur privilégié des écoles et instituts de formation
+Est l'interlocuteur privilégié des cadres de pôle, cadres supérieurs et cadres de santé sur le sujet des stagiaires
+Assure la promotion des CAE et CFA au sein des instituts de formation
+ Activités spécifiques
+Participe aux réunions de la direction des soins
+Pilote des projets transversaux au titre de la direction de soins
+Participe à la gestion des risques dans son domaine d'activité
+Assure une veille documentaire sur les projets confiés
+  
+  
+  Profil recherché :
+  
+  
+  Niveau d'emploi : Catégorie A
+Formations 
+Diplôme de cadre de santé
+Maitrise des outils bureautique (Excel, Word) 
+Expériences
+ 
+ 
+En service de soins
+En management d'équipe
+ 
+ 
+ 
+ 
+ 
+ 
+Connaissances, savoirs faire et qualités requises
+ 
+ 
+Connaissances :
+Connaissance de la politique générale de santé
+Connaissance du dispositif de soins en santé mentale
+Connaissance de l'organisation des soins et des parcours de soins,
+Connaissance en méthodologie de conduite de projet
+Savoir-faire :
+Prioriser, décider, arbitrer
+Conduire des projets et piloter des groupes de travail
+Communiquer et transmettre les informations nécessaires
+Maîtriser les outils informatiques liés à la fonction
+Analyser et synthétiser des données
+Négocier et gérer les conflits
+Qualités :
+Sens de la collaboration et du contact
+Autonomie
+Discrétion professionnelle
+Qualité relationnelle et capacité d'écoute
+Maitrise de soi", , ,CDI,"{'libelle': '94 - VILLEJUIF', 'latitude': 2.363304, 'longitude': 48.792109, 'codePostal': '94800', 'commune': '94076'}","{'nom': 'GROUPE HOSPITALIER PAUL GUIRAUD', 'entrepriseAdaptee': False}", 
+36,2023-04-25T15:17:55.000Z,2023-05-03T12:21:16.000Z,Responsable d'Equipe Projet Inclusif (H/F),"Et si votre nouvelle expérience dans l'accompagnement social se joue aux côtés d'une entreprise engagée et innovante ? Nous avons probablement le nouveau challenge qu'il te faut !
+
+Vous êtes (re)connu pour avoir accompagné votre public comme personne ! Vous avez découvert une nouvelle casquette managériale et vous avez envie d'exercer vos 2 fonctions ? Vous avez envie d'agir dans un environnement stimulant, où l'humain est au cœur des préoccupations ?
+
+ Cerise sur le gâteau, c'est un dispositif qui va changer votre quotidien ? Ne partez pas, lisez la suite !
+
+
+
+Violette recherche 3 Coordinateur(trice)s d'équipe H/F en CDI sur le Nord du 93 (Aulnay-sous-Bois, Tremblay, Villepinte, Pierrefitte, Stains )
+
+Le projet vous tente ? Aux côtés de Violette, notre Directrice de Programme, voici votre planning concocté aux petits oignons : 
+
+
+Lundi (Dans les starting-blocks) : Vous garantissez le déploiement du dispositif en suivant l'activité et les actions mises en œuvre, et en animant l'équipe autour des objectifs du dispositif. Vous garantissez la qualité de vie au travail en favorisant un climat propice aux échanges et à la collaboration. Vous représentez le dispositif, ou accompagnez vos collaborateurs dans cette représentation, auprès des acteurs locaux : associations locales, acteurs sociaux, municipalités, etc.
+
+Mardi (""Je donne le La"") : Vous recrutez, coordonnez et managez une équipe d'une quinzaine de personnes (coaches emploi, travailleurs sociaux, fonctions administratives) et l'animez en proximité. Vous contribuez au développement des compétences de vos collaborateurs (réalisation des entretiens individuels, identification des besoins, mise en place de formations ).
+
+Mercredi (Au plus près des entreprises) : Vous pilotez et mettez en œuvre, en collaboration avec les coaches emploi, la création d'un réseau d'entreprises partenaires, afin d'identifier leurs besoins de recrutement et les opportunités d'emplois pour les allocataires, et de les impliquer dans les parcours d'accompagnement.
+
+Jeudi (On fait des plans sur la comète) : En lien avec votre directeur(trice) de programme et votre équipe, vous contribuez à l'analyse des pratiques et à l'amélioration continue du dispositif. Vous faites remonter les besoins ou difficultés rencontrés sur le terrain et traduisez les retours de vos collaborateurs en enseignements. Vous êtes force de proposition sur les orientations stratégiques à donner au dispositif.
+
+Vendredi (On fait les comptes) : Vous vous assurez de la bonne utilisation des ressources mises à disposition par le dispositif, et garantissez la bonne complétude de l'outil de reporting.
+
+Votre challenge ultime ? Que les Hommes et les Femmes que votre équipe accompagne puissent regagner confiance et devenir acteurs de leur parcours personnel et professionnel.
+
+Vous êtes engagé(e) dans des fonctions à caractère social, vous avez une bonne connaissance des publics, des dispositifs et des acteurs (associatifs, entreprises, politiques ). Votre moteur ? Aller vers les personnes, créer un lien social fort avec eux et les aider à se remettre debout et à avoir confiance. Mettre les gens dans des cases ? Ce n'est pas votre truc.
+
+
+Quel est le deal ? Un contrat en CDI à 35h ! La rémunération au poste sera entre 30.000-36.000€ annuel !
+
+Le poste sera basé en Seine-Saint-Denis sur les localités de Villepinte, Tremblay-en-France ou Aulnay-Sous-Bois. On espère que cela vous convient ! Pour équilibrer votre vie professionnelle et personnelle, vous pourrez même télétravailler.
+
+Nous vous proposons un poste à responsabilité avec autonomie ! Rassurez-vous, en matière de compétences, vous participerez à un programme de formations / Ateliers qui vous permettons de bien saisir nos enjeux et prendre votre fonction sereinement.", , ,CDI,{'libelle': '93 - Seine Saint Denis'},"{'nom': 'GROUPE VITAMINE T', 'url': 'https://recrutement-vitamine-t.talentview.io/jobs/7gsgby', 'entrepriseAdaptee': False}", 
+37,2023-04-17T06:55:50.000Z,2023-04-17T06:55:50.000Z,Pilote de projet colocation de personne âgées H/F,"Vous intervenez auprès d'une communauté de séniors autonomes vivant en colocation et participez à la mise en place d'un projet inédit et enrichissant ! Vous interviendrez sur la commune d'Alfortville, dans une maison où vivent jusqu'à 8 colocataires.
+ Horaires : Base 9h-17h30 (une soir par semaine 19h30 et 1 soir à 16h) + être impérativement disponible un weekend sur 2 (samedi + dimanche)
+ Vous serez une personne ressource, en appui et à l'écoute des envie et besoins des colocataires. (personnes âgées autonomes)
+ Missions principales :
+ - Accompagner de manière individualisée les colocataires dans leur quotidien et assurer leur confort
+ - Accompagner de manière collective les colocataires et promouvoir la vie sociale au sein de la maison
+ - Assurer une qualité de service
+ - Accueillir les nouveaux grands-colocs et aider à leur installation
+ - Veiller au respect du rythme de vie de chacun - Stimuler la communication des grands-colocs
+ - Être vigilant et détecter d'éventuelles pertes d'autonomie justifiant à court et moyen terme le départ d'un grand-coloc
+ - Organiser, coordonner et animer des ateliers/activités selon les souhaits des grands-colocs - Garantir une relation continue avec les grands-colocs et leurs proches
+ - Gérer les courses (commandes, accompagnement des grands-colocs au marché et au supermarché, suivi des stocks) dans le respect du budget alloué
+ - Aider à l'élaboration des menus
+ - Assurer la production quotidienne des recettes et menus (participation souhaitée mais non obligatoire des grands-colocs)
+ - Préparer les repas en tenant compte du nombre de repas individuels et des régimes alimentaires spécifiques
+ - Ranger les espaces communs
+ - Éliminer les sacs à déchets des espaces communs et des espaces privatifs
+ - Nettoyer les sols des espaces communs
+ - Assurer l'entretien des équipements et du matériel des espaces communs
+ - Assurer le nettoyage de la vaisselle après les repas
+ - Assurer le nettoyage des espaces qui pourront nécessiter une intervention particulière
+ - Gestion du linge plat dont réfection des lits
+ - Aide au nettoyage du linge personnel des grands-colocs
+ - Gérer la coordination avec les intervenants extérieurs (blanchisserie du linge plat et divers partenaires)
+ - Accompagner dans la mise en place de soins ou de services externes (aide à la prise de rdv, transport, etc.)
+ Qualités requises :
+ - Bienveillance, bon relationnel
+ - Prise d'initiatives, être force de propositions
+ - Savoir et aimer cuisiner
+ - Etre en capacité de fédérer un groupe
+ Type d'emploi : Temps partiel, CDINombre d'heures : 24 par semaine
+ Salaire : 11,27€ à 12,49€ par heure
+ Avantages :
+ * Participation au transport
+ Programmation :
+ * Disponible le week-end
+ * Du lundi au vendredi
+ * Travail de nuit
+ * Travail les jours fériés
+ Lieu du poste : En présentiel", , ,CDI,"{'libelle': '94 - ALFORTVILLE', 'latitude': 48.797176, 'longitude': 2.421524, 'codePostal': '94140', 'commune': '94002'}",{'entrepriseAdaptee': False}, 
